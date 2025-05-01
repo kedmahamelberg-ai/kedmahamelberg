@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Kedma Hamelberg"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD in Artificial Intelligence Applied to Marketing | University of Amsterdam"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
