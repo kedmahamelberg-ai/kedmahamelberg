@@ -24,31 +24,6 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
----
-layout: home
-title: "Kedma Hamelberg"
-subtitle: "PhD in Digital Marketing & AI | University of Amsterdam"
----
-
-Welcome! I'm a PhD candidate specializing in AI, marketing strategy, and the societal impact of technology.  
-This site showcases my research, teaching, and publications.
-
-### 📚 Research
-My dissertation, "Voices in Action," explores corporate messaging during societal crises using NLP and AI-powered tools.  
-Key topics: SDGs, DEI, executive communication, and emotion framing.
-
-### 🧑‍🏫 Teaching
-I teach master’s courses in:
-- Digital Marketing & Analytics
-- Applied AI for Marketing
-
-### 📄 CV
-[Download my CV (PDF)](/assets/cv/Kedma_Hamelberg_CV.pdf)
-
-### 📬 Contact
-- 📧 Email: kedma@hamelberg-ai.com  
-- 🌐 [Google Scholar](https://scholar.google.com) | [LinkedIn](https://linkedin.com)
-
 
 # Build settings
 markdown: kramdown
