@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Kedma Hamelberg | AI for Marketing & Society"
+title: "Kedma Hamelberg | AI for Marketing, Business & Society"
 email: "kedma@hamelberg-ai.com"
 description: >-
   I am a PhD researcher in AI for Responsible Marketing. My work explores how brands and CEOs communicate during societal crises using AI-powered methods such as deep learning, sentiment analysis, and AI agents for framing classification.
