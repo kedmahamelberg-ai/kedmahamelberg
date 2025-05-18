@@ -71,19 +71,18 @@ author:
   name   : "Kedma Hamelberg"
   avatar : "/assets/images/Kedma Hamelberg1092-a.jpg"
   bio    : "Applied Artificial Intelligence Researcher|University of Amsterdam"
+author:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=M8TAlNwAAAAJ&hl=nl"
+    - label: "Publications"
+      icon: "fas fa-fw fa-file-alt"
+      url: "https://journals.sagepub.com/doi/10.1177/07439156241230910?int.sj-full-text.similar-articles.3"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/kedma-hamelberg/"
+
 
 footer:
   links:
