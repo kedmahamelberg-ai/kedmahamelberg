@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/Kedma Hamelberg1092-a.jpg
+  overlay_image: "/assets/images/Kedma Hamelberg1092-a.jpg"
 excerpt: >
 I'm Kedma Hamelberg, an applied AI scientist in marketing and society. I use NLP, machine learning, deep learning, and AI agents to analyze how brands and CEOs shape public discourse—from war and sustainability to DEI.
 
