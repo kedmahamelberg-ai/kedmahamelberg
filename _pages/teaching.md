@@ -5,82 +5,109 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Teaching Philosophy & Experience
 
-📚 Teaching Philosophy & Courses
-I teach with the belief that digital marketing education should combine cutting-edge theory, hands-on AI tools, and real-world business cases to equip students for today's data-driven, ethically conscious marketplace.
+I approach teaching as an evidence-based, student-centered practice grounded in the power of **education, human connection**, and **applied learning**. My classrooms are designed to foster intellectual rigor, collaboration, and long-term professional value.
 
-My courses are grounded in three pillars:
+I intentionally learn my students’ names, actively engage them in discussion, and cultivate peer connection as a resource—both for navigating the course and as a source of **lifelong career support**.
 
-Applied AI for Marketing 
+My goal is to prepare students—whether full-time learners or working professionals—for the realities of today’s data-driven, ethically complex marketing landscape.
 
-Digital Marketing & Analytics (DMA) 
+### My teaching spans:
 
-Ethical, Societal, and Behavioral Implications of Data & Technology
+- Designing new courses from scratch  
+- Redesigning and coordinating existing programs  
+- Delivering lectures and interactive tutorials  
+- Supervising Master’s theses and mentoring career transitions
 
+### Courses taught:
 
-**Applied AI for Marketing (Master's Elective)**
-This elective empowers students to navigate, deploy, and critically assess AI within the marketing landscape. The course is designed around three AI literacies:
+- **Applied AI for Marketing** (Master’s Elective)  
+- **Digital Marketing & Analytics (DMA)** – Core course for both full-time and Executive Master’s students  
+- **Quantitative Data Analysis 2** (Bachelor’s, Economics)
 
-Functional AI literacy: How AI works (conceptually and practically)
+---
 
-Ethical AI literacy: Risks, fairness, and transparency in AI
+## Applied AI for Marketing (Master’s Elective)
 
-Rhetorical AI literacy: How AI-generated content persuades and performs
+This course trains students to critically assess and deploy AI in marketing contexts. It is structured around three core literacies:
 
-Key Features:
-Python-based tutorials in Google Colab
+- **Functional AI literacy**: How AI works, conceptually and practically  
+- **Ethical AI literacy**: How to navigate the ethical issues related to AI (e.g., Fairness, bias, transparency, and responsible use)  
+- **Rhetorical AI literacy**: How natural language and AI-generated content persuades and performs
 
-Hands-on analysis with YouTube, website, and social media data
+### Key Features
 
-Deep learning applications (e.g., transformers for text & image classification)
+- Python-based tutorials in Google Colab  
+- Deep learning models (e.g., BERT, transformers for text and image classification)  
+- Business data from YouTube, websites, and social media  
+- Predictive and causal modeling (e.g., DiD, logistic/linear regression)  
+- Tutorials on single, multi-agent, and agentic AI  
+- Live debates on political polarization, fairness, and explainability in AI  
+- Collaborations with businesses to solve real challenges (e.g., Danone, OHRA, and Lucid Motors)
 
-Tutorials on single, multi-agent and agentic AI frameworks 
+### Sample Student Exercises
 
-Hands-on exercises on causal/predictive models (DiD, logistic, linear) with business data
+- Design custom AI agents for marketing use cases  
+- Compare zero-shot vs fine-tuned sentiment models  
+- Use AI to classify emotions, values, or persuasive styles in brand messaging
 
-Live discussions on ethical dilemmas and political polarization in  AI-powered communication
+### Outcome
 
-Business case collaboration (e.g., Danone, OHRA, Lucid Motors)
+Students complete a strategic portfolio demonstrating fluency in AI tools, data analysis, and critical application to real-world challenges.
 
-Capstone group project: Develop an AI-powered strategy using AI systems for scraping, classification, and predictive/causal modeling.
+---
 
-Sample Student Tasks:
+## Digital Marketing & Analytics (DMA)
 
-Design AI agents for marketing challenges
-Compare zero-shot vs fine-tuned models for sentiment analysis
-Use transformer models (e.g., BERT) to classify emotions, values, or persuasion strategies
+DMA is a foundational course for both traditional MSc students and **Executive Master’s students with industry experience**. It covers performance metrics, customer journeys, and omnichannel campaign design.
 
+### AI & Analytics Focus
 
-**Digital Marketing & Analytics (Mster's Mandatory)**
-This core course introduces students to digital metrics, data types, and the use of analytics in conversion attribution, customer journey mapping, and cross-platform engagement.
+- Campaign strategy using AI-powered segmentation and persuasion  
+- Analysis of structured and unstructured data (CRM, clickstream, scraped content)  
+- Regression and classification modeling with real business datasets  
+- Personalization, emotion-rich content, and multi-touch attribution frameworks
 
-AI & Data Emphasis:
-Integration of AI in campaign strategy, propensity modeling, and chatbot persuasion design
+### Innovations
 
-Students analyze structured & unstructured data (web scraping, clickstream, CRM)
+- AI applied to multimodal data and predictive analytics modules
+- Use of AI for language and paralanguage classification (topic modeling, sentiment, emotion, stance, etc.)
+- Ethical debates on AI surveillance, bias, and political ad targeting  
+- Applied projects simulating real digital marketing pipelines
 
-Topics like multi-touch attribution, emotion-rich content, and personalization are addressed using real-world case studies.
+### Outcome
 
-Innovative Additions:
-AI modules on LLM content and predictive analytics
+Students leave the course with a portfolio-ready **analytics toolkit** and confidence in applying AI to omnichannel strategy and ROI modeling.
 
-Tutorials on regression and classification with business data
+---
 
-Live discussions on ethical dilemmas and political polarization in digital AI-powered communication
+## 📐 Quantitative Data Analysis 2 (Bachelor, Economics)
 
-Outcome:
-Students finish the course with a practical portfolio of AI-powered marketing strategies, backed by data interpretation, modeling techniques, and ROI analysis.
+This statistics course introduces students to foundational quantitative methods using SPSS.
 
+### Sample of Topics Covered
 
-🧑‍🏫 Recognition
-Nominated and elected as Best Lecturer by Master’s students in the Digital Business Track
+- Hypothesis testing and statistical inference  
+- Linear and logistic regression  
+- ANOVA and model diagnostics
 
-Consistently rated 8+/10 by students for teaching effectiveness, personal engagement, and clarity
+### Teaching Approach
 
-Recognized for bridging academic rigor with business relevance, using both humor and hands-on coaching
+I led lab sessions and offered **individualized support**, ensuring students built confidence in applying statistical concepts independently.
 
-**Top student comments include:**
+> “Kedma was clear, structured, and incredibly supportive.”  
+> “A true gem—the best tutorial teacher I had.”
 
-“Kedma is the best tutorial teacher I’ve had in three years”
-“Creative, engaging, and intellectually sharp”
-“Takes time to care — and to challenge us” 
+---
+
+## 🌟 Recognition & Student Feedback
+
+- Elected *Best Lecturer* by Executive students in the Digital Business Track  
+- Consistently rated **8+/10** for clarity, engagement, and real-world relevance  
+- Known for combining academic rigor with warmth, humor, and real-world orientation  
+- Recognized for **mentoring, personalized support**, and helping students build lasting professional networks
+
+> **“Kedma is the best tutorial teacher I’ve had in three years.”**  
+> **“She creates a community—her feedback goes beyond the classroom.”**  
+> **“Challenging, funny, and deeply committed to our growth.”**
