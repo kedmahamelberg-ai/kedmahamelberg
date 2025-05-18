@@ -50,7 +50,7 @@ plugins:
 author:
   name: "Kedma Hamelberg"
   avatar: "/assets/images/Kedma Hamelberg1092-a.jpg"
-  bio: "kedma@hamelberg-ai.com | k.hamelberg@uva.nl"
+  bio: "kedma@hamelberg-ai.com"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
