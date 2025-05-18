@@ -1,3 +1,11 @@
+---
+layout: single
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+
 📚 Teaching Philosophy & Courses
 I teach with the belief that digital marketing education should combine cutting-edge theory, hands-on AI tools, and real-world business cases to equip students for today's data-driven, ethically conscious marketplace.
 
