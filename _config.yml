@@ -114,3 +114,13 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Navigation
+nav:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Posts"
+    url: /posts/
+
