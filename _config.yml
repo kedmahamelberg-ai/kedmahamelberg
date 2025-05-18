@@ -115,13 +115,15 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  # Navigation
-  nav:
-    - title: "Home"
-      url: /
-    - title: "Research"
-      url: /research/
-    - title: "Teaching"
-      url: /teaching/
-    - title: "CV"
-      url: /cv/
+
+# Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
+
