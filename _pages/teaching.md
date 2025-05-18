@@ -108,6 +108,6 @@ I led lab sessions and offered **individualized support**, ensuring students bui
 - Known for combining academic rigor with warmth, humor, and real-world orientation  
 - Recognized for **mentoring, personalized support**, and helping students build lasting professional networks
 
-> **“Kedma is the best tutorial teacher I’ve had in three years.”**  
+> **“Thanks to your teaching style, I had fun while learning AI.”**  
 > **“She creates a community—her feedback goes beyond the classroom.”**  
 > **“Challenging, funny, and deeply committed to our growth.”**
