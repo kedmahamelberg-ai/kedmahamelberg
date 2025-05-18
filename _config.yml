@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Kedma Hamelberg"
   avatar : "/assets/images/Kedma Hamelberg1092-a.jpg"
-  bio    : "PhD in Artificial Intelligence Applied to Responsible Marketing | University of Amsterdam"
+  bio    : "PhD researcher of Applied Artificial Intelligence | University of Amsterdam"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
