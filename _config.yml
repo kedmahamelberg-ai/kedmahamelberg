@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Kedma Hamelberg"
   avatar : "/assets/images/Kedma Hamelberg1092-a.jpg"
-  bio    : "PhD researcher of Applied Artificial Intelligence | University of Amsterdam"
+  bio    : "Applied Artificial Intelligence Researcher|University of Amsterdam"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
