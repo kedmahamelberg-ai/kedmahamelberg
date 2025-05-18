@@ -68,7 +68,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   :  "<h1 style='font-size: 30px;'>Kedma Hamelberg</h1>"
+  name   :  Kedma Hamelberg
 
   avatar : "/assets/images/Kedma Hamelberg1092-a.jpg"
   bio    : "Applied Artificial Intelligence Researcher|University of Amsterdam"
