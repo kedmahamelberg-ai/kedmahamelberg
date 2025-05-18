@@ -1,0 +1,28 @@
+// Custom style overrides
+
+.page {
+  max-width: 1000px;
+}
+
+.author__avatar {
+  margin-bottom: 10px;
+  max-width: 120px;
+  border-radius: 50%;
+}
+
+.author__bio {
+  font-size: 14px;
+  line-height: 1.6;
+  padding-bottom: 8px;
+}
+
+.author__name {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.sidebar {
+  padding-left: 1em;
+  padding-right: 1em;
+}
