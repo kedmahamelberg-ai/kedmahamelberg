@@ -8,12 +8,11 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/Kedma Hamelberg1092-a.jpg
 excerpt: >
-  I’m Kedma Hamelberg, an applied AI scientist focused on marketing, business, and societal impact. My research integrates natural language processing, machine learning, deep learning, and AI agents with predictive and causal inference to analyze how brands and CEOs shape public discourse during crises—ranging from war and sustainability to DEI.
+I'm Kedma Hamelberg, an applied AI scientist in marketing and society. I use NLP, machine learning, deep learning, and AI agents to analyze how brands and CEOs shape public discourse—from war and sustainability to DEI.
 
-  My work is published in the *Journal of Public Policy & Marketing* and has been presented at EMAC and AMS. I bring this expertise into the classroom, where I teach applied AI for marketing and digital strategy to diverse master’s cohorts in business administration.
+  My work appears in the *Journal of Public Policy & Marketing* and leading conferences like EMAC and AMS. I teach applied AI for marketing and digital strategy in business master’s programs.
 
-  If you’re seeking research-driven insights or AI-powered education partnerships, [let’s connect](mailto:kedma@hamelberg-ai.com).
-
+  For collaborations or AI-powered education partnerships, [get in touch](mailto:kedma@hamelberg-ai.com).
 
 ---
 
