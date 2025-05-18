@@ -6,7 +6,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: "/assets/images/kedma-hamelberg.jpg"
+  overlay_image: "/assets/images/KedmaHamelberg1077.jpg"
 excerpt: >
   I'm Kedma Hamelberg, an applied AI scientist working at the intersection of marketing, business, and society. AI is both my method and object of research: methodologically, I apply NLP, machine learning, deep learning, and AI agents to analyze public discourse; conceptually, I examine how AI technologies reshape consumer behavior, business strategy, and societal norms.
 
