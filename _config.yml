@@ -115,9 +115,8 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# Navigation
-nav:
 ```yaml
+# Navigation
 nav:
   - title: "Home"
     url: /
@@ -127,5 +126,3 @@ nav:
     url: /teaching/
   - title: "CV"
     url: /cv/
-```
-
