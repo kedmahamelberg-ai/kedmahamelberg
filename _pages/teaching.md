@@ -82,7 +82,7 @@ Students leave the course with a portfolio-ready **analytics toolkit** and confi
 
 ---
 
-## 📐 Quantitative Data Analysis 2 (Bachelor, Economics)
+## Quantitative Data Analysis 2 (Bachelor, Economics)
 
 This statistics course introduces students to foundational quantitative methods using SPSS.
 
@@ -101,7 +101,7 @@ I led lab sessions and offered **individualized support**, ensuring students bui
 
 ---
 
-## 🌟 Recognition & Student Feedback
+## 🌟🌟🌟🌟🌟 Recognition & Student Feedback
 
 - Elected *Best Lecturer* by Executive students in the Digital Business Track  
 - Consistently rated **8+/10** for clarity, engagement, and real-world relevance  
