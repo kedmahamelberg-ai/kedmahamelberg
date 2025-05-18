@@ -115,7 +115,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-```yaml
 # Navigation
 nav:
   - title: "Home"
