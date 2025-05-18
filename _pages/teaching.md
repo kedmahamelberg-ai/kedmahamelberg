@@ -61,7 +61,7 @@ Tutorials on regression and classification with business data
 Live discussions on ethical dilemmas and political polarization in digital AI-powered communication
 
 Outcome:
-Students finish the course with a practical portfolio of AI-powered marketing strategies, backed by data interpretation, modeling techniques, and ROI analysis
+Students finish the course with a practical portfolio of AI-powered marketing strategies, backed by data interpretation, modeling techniques, and ROI analysis.
 
 
 🧑‍🏫 Recognition
@@ -70,3 +70,9 @@ Nominated and elected as Best Lecturer by Master’s students in the Digital Bus
 Consistently rated 8+/10 by students for teaching effectiveness, personal engagement, and clarity
 
 Recognized for bridging academic rigor with business relevance, using both humor and hands-on coaching
+
+**Top student comments include:**
+
+“Kedma is the best tutorial teacher I’ve had in three years”
+“Creative, engaging, and intellectually sharp”
+“Takes time to care — and to challenge us” 
