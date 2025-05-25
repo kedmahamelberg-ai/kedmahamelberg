@@ -14,7 +14,7 @@ excerpt: >
   during moments of crisis, from war and sustainability to DEI.
 
   My work is published in the *Journal of Public Policy & Marketing* and has been presented at EMAC and AMS. 
-  I bring these insights into the classroom, where I teach Applied AI for Marketing and Digital Strategy 
+  I bring these insights into the classroom, where I teach Applied AI for Marketing and Digital Analytics 
   to diverse MSc cohorts in business administration.
 
   I'm currently on the job market for a tenure-track position and open to research collaborations and 
