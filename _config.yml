@@ -35,9 +35,6 @@ sass:
 head_scripts:
   - /_includes/head-custom.html
 
-assets:
-  custom_css:
-    - /assets/css/custom.css
 
 include:
   - _pages
