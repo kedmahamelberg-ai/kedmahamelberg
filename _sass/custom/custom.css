@@ -35,3 +35,9 @@
   font-size: 0.9rem;
   padding-bottom: 10px;
 }
+
+/* Fix text-over-face on splash page by adding left-to-right overlay gradient */
+.page__hero--overlay {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.7) 35%, rgba(0, 0, 0, 0.1) 80%);
+}
+
