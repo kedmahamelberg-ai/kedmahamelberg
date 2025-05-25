@@ -32,6 +32,10 @@ timezone:
 sass:
   style: compressed
 
+assets:
+  custom_css:
+    - /assets/css/custom.css
+
 
 include:
   - _pages
