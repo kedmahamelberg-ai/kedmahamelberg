@@ -1,4 +1,9 @@
-/* Reduce splash page font size */
+/* Fix text-over-face with overlay */
+.page__hero--overlay {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.7) 35%, rgba(0, 0, 0, 0.1) 80%) !important;
+}
+
+/* Reduce splash font size */
 .page__hero--overlay .page__content {
   font-size: 1.1rem;
   max-width: 600px;
