@@ -110,6 +110,13 @@ nav:
   - title: "CV"
     url: /cv/
 
+defaults:
+  - scope:
+      path: ""
+      type: "scss"
+    values:
+      layout: null
+
 
 
 
