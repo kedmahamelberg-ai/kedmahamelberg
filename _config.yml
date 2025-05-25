@@ -34,8 +34,7 @@ sass:
 
 assets:
   custom_css:
-    - /assets/css/custom.css
-
+    – /assets/css/custom.css
 
 
 include:
