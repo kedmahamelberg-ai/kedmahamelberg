@@ -1,13 +1,12 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
+title: "Standard Post"
+date: 2010-01-07
+categories: [blog]
+tags: [formats, readability]
+layout: post
+excerpt_separator: "<!--more-->"
 ---
+
 
 This post has been updated and should show a modified date if used in a layout.
 
