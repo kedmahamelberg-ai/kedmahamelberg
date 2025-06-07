@@ -91,6 +91,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: "scss"
+    values:
+      layout: null
 
 category_archive:
   type: liquid
@@ -110,12 +115,8 @@ nav:
   - title: "CV"
     url: /cv/
 
-defaults:
-  - scope:
-      path: ""
-      type: "scss"
-    values:
-      layout: null
+
+
 
 
 
