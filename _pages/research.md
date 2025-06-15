@@ -30,7 +30,7 @@ Uses **Difference-in-Differences models**, **moral and emotional language classi
 
 ---
 
-### AI Techniques I Use
+### AI Techniques & Analytics Methods I Use
 
 - Zero-shot and fine-tuned **transformer models** (e.g., BERT, RoBERTa)
 - **Sentiment, emotion, stance, and moral language classifiers**
