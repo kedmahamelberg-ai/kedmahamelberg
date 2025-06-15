@@ -12,7 +12,7 @@ My research examines how brands and CEOs communicate during societal crises—an
 
 In today’s sociopolitical climate, corporate silence can be seen as complicity, while speaking up may trigger division. My work investigates how message **source** (e.g., CEO vs. brand), **style** (e.g., emotional tone, symbolism, emoji use), and **context** (e.g., political polarization, social crises) shape audience reactions on digital platforms.
 
-My dissertation, *Voices in Action: AI-Powered Insights from Corporate Messaging During Societal Crises*, bridges marketing, political psychology, and computational social science. It includes three studies that apply advanced **AI and NLP techniques** to analyze more than 200,000 real-world social media interactions:
+My dissertation, *Voices in Action: AI-Powered Insights from Corporate Messaging During Societal Crises*, bridges marketing, political psychology, and computational social science. It includes three studies that apply advanced **AI and NLP techniques** to analyze more than 380,000 real-world social media interactions:
 
 ---
 
