@@ -8,11 +8,11 @@ author_profile: true
 
 ## Research Focus
 
-My research examines how brands and CEOs communicate during societal crises—and how audiences respond emotionally, politically, and behaviorally. I explore corporate messaging in polarized environments using **AI-powered methods**, with the goal of understanding what drives engagement, support, or backlash.
+My research examines how brands and CEOs communicate during societal crises—and how audiences respond emotionally, politically, and behaviorally. I explore corporate messaging in polarized environments using **AI-powered methods**to understand what drives engagement, support, or backlash.
 
-In today’s sociopolitical climate, corporate silence can be seen as complicity, while speaking up may trigger division. My work investigates how message **source** (e.g., CEO vs. brand), **style** (e.g., emotional tone, symbolism, emoji use), and **context** (e.g., political polarization, social crises) shape audience reactions on digital platforms.
+In today’s sociopolitical climate, corporate silence can be seen as complicity, while speaking up may trigger division. My work investigates how message **source** (e.g., CEO vs. brand), **style** (e.g., emotional tone, symbolism, emoji use), and **context** (e.g., political communication, social crises) shape audience reactions on digital platforms.
 
-My dissertation, *Voices in Action: AI-Powered Insights from Corporate Messaging During Societal Crises*, bridges marketing, political psychology, and computational social science. It includes three studies that apply advanced **AI and NLP techniques** to analyze more than 380,000 real-world social media interactions:
+My dissertation, *Voices in Action: AI-Powered Insights from Corporate Messaging During Societal Crises*, bridges marketing, political psychology, and computational social science. It includes three studies that apply advanced **AI and NLP techniques** to analyze more than 250,000 real-world social media interactions:
 
 ---
 
@@ -39,6 +39,7 @@ Examines how shifts in corporate positioning on sensitive societal topics influe
 - Experimental design using **AI-generated stimuli** for field or lab testing
 - Multi-agent chatbot framework to simulate persuasive brand-consumer interactions in controlled experiments
 - Role-specific agents (e.g., sentiment adjuster, content rewriter, ethical watchdog) for dynamic message generation
+- Mechanism modeling using causal inference and emotion–moral–ideological alignment pathways to uncover why and how audience reactions unfold
 
 ---
 
