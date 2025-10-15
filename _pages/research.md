@@ -24,9 +24,9 @@ Draws on **Media Richness Theory** and uses fine-tuned deep learning transformer
 Applies **machine learning-based emotion classification** and **framing analysis** to show that CEO messages during the Russia–Ukraine war outperform brand messages in driving public engagement—especially when emotionally expressive (Executive Symbolism Theory).
   → Published in *Journal of Public Policy & Marketing*
 
-### Article 3 – DEI Reversal & Political Polarization  
-Uses **Difference-in-Differences models**, **moral and emotional language classification**, and **AI agent-based labeling pipelines** to study how partisan audiences react to corporate reversals on Diversity, Equity, and Inclusion (DEI), guided by Political Sectarianism Theory.
-  → Targeting *Journal of Marketing*
+### Article 3 – Corporate Stances in Divided Times  
+Examines how shifts in corporate positioning on sensitive societal topics influence public reactions across ideological lines. Using advanced AI text analytics and causal inference techniques, this study uncovers how audiences interpret and emotionally respond to perceived inconsistencies in brand commitments during moments of societal tension.
+  → Targeting *Journal of Retailing*
 
 ---
 
