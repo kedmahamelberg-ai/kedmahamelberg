@@ -36,7 +36,6 @@ Examines how shifts in corporate positioning on sensitive societal topics influe
 - **Sentiment, emotion, stance, and moral language classifiers**
 - Human-in-the-loop **AI agents** for classification and content generation
 - **Multimodal analysis** across text, emojis, and platform-specific engagement
-- Causal inference via **Difference-in-Differences**, **Bayesian Structural Time Series (BSTS)**, and OLS regression
 - Experimental design using **AI-generated stimuli** for field or lab testing
 - Multi-agent chatbot framework to simulate persuasive brand-consumer interactions in controlled experiments
 - Role-specific agents (e.g., sentiment adjuster, content rewriter, ethical watchdog) for dynamic message generation
