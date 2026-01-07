@@ -5,22 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-<style>
-.portrait-header {
-  text-align: center;
-  margin-bottom: 2em;
-}
-.portrait-header img {
-  border-radius: 50%;
-  max-width: 250px;
-  border: 5px solid #f0f0f0;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-}
-</style>
-
-<div class="portrait-header">
-  <img src="/assets/images/KedmaHamelberg1092-a.jpg" alt="Kedma Hamelberg">
-</div>
 
 I develop explainable AI systems that predict how consumers respond to marketing in digital environments—analyzing 13+ million social media posts to understand what drives engagement, emotion, and action.
 
