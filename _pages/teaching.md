@@ -3,6 +3,10 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  overlay_image: "/assets/images/Kedma_Hamelberg.png"
 ---
 
 ## Teaching Philosophy & Experience
