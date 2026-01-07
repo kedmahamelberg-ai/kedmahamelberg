@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: "/assets/images/kedma_hamelberg_teaching.png"
+  overlay_image: "/assets/images/kedma award.jpeg"
 ---
 
 ## Teaching Philosophy & Experience
