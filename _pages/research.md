@@ -12,7 +12,7 @@ header:
 
 ## Research Focus
 
-My research examines how different sources (i.e., CEOs, brands, citizens) communicate during societal crises—and how audiences respond emotionally, politically, and behaviorally. I apply **AI-powered methods**to understand what drives engagement, support, or backlash.
+My research examines how different sources (i.e., CEOs, brands, citizens) communicate during societal crises—and how audiences respond emotionally, politically, and behaviorally. I apply **AI-powered methods** to understand what drives engagement, support, or backlash.
 
 In today’s sociopolitical climate, corporate silence can be seen as complicity, while speaking up may trigger division. My work investigates how message **source** (e.g., CEO vs. brand vs. citizens), **style** (e.g., emotional tone, symbolism, emoji use), and **context** (e.g., political communication, social crises) shape audience reactions on digital platforms.
 
