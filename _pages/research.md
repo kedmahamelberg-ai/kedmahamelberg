@@ -10,44 +10,45 @@ header:
 ---
 
 
-## Research Focus
+## Research 
 
-My research examines how different sources (i.e., CEOs, brands, citizens) communicate during societal crises—and how audiences respond emotionally, politically, and behaviorally. I apply **AI-powered methods** to understand what drives engagement, support, or backlash.
-
-In today’s sociopolitical climate, corporate silence can be seen as complicity, while speaking up may trigger division. My work investigates how message **source** (e.g., CEO vs. brand vs. citizens), **style** (e.g., emotional tone, symbolism, emoji use), and **context** (e.g., political communication, social crises) shape audience reactions on digital platforms.
-
-My dissertation, *Voices in Action: AI-Powered Insights from Corporate Messaging During Societal Crises*, bridges political communication and computational social science. It includes three studies that apply advanced **AI and NLP techniques** to analyze more than 250,000 real-world social media interactions:
+I develop explainable AI methods to predict consumer behavior in digital environments. My work combines large-scale social media analytics **(analyzing 13+ million posts)** with econometric rigor to understand how marketing communication drives engagement, emotion, and action.
 
 ---
 
-### Article 1 – Emojis & SDG Messaging  
-Draws on the **Media Richness Theory** and uses fine-tuned deep-learning transformer models to classify emoji types in brand communication about the UN Sustainable Development Goals (SDGs), revealing that concrete visuals increase engagement.
-  → Accepted for EMAC 2025 and AMS 2025
-  → Under review in a top journal
+## Research Streams
+### 1. AI-Powered Marketing Communication Analytics
+I create hybrid AI classification systems that balance predictive power with interpretability—critical for marketing applications where managers need actionable insights, not black boxes. My methodological contributions include:
 
-### Article 2 – CEO Voice During War  
-Applies **machine learning-based emotion classification** and **framing analysis** to show that CEO messages during the Russia–Ukraine war outperform brand messages in driving public engagement—especially when emotionally expressive (Executive Symbolism Theory).
-  → Published in *Journal of Public Policy & Marketing*
+Domain-specialized transformer models combining large language model embeddings with rule-based validation layers
+Multimodal analysis of text, emojis, and visual content across digital platforms
+Scalable NLP pipelines for sentiment, emotion, stance, and moral language detection
 
-### Article 3 – Corporate Stances in Divided Times  
-Examines how shifts in corporate positioning on sensitive societal topics influence public reactions across ideological lines. Using advanced AI text analytics and causal inference techniques, this study uncovers how audiences interpret and emotionally respond to perceived inconsistencies in brand commitments during moments of societal tension.
-  → Targeting *Journal of Retailing*
+**Key findings**: Symbol emojis (🏳️‍🌈 for inclusivity) increase SDG message engagement by 281% while icon emojis show no effect. CEO communication generates stronger public engagement than brand accounts during geopolitical crises. When brands maintain their DEI commitments while supporters are vocal on social media, they gain more consumer engagement and purchase intentions than when they abandon DEI while critics are vocal—standing firm with supporters beats retreating from critics.
 
----
+### 2. Consumer Responses to AI Technologies
+Collaborating with researchers at iaelyon and Emlyon Business School, I analyze shifting human-AI relationships using change-point detection across millions of social media conversations. This line of research examines:
 
-### AI Techniques & Analytics Methods I Use
-
-- Zero-shot and fine-tuned **transformer models** (e.g., BERT, RoBERTa)
-- **Sentiment, emotion, stance, and moral language classifiers**
-- Human-in-the-loop **AI agents** for classification and content generation
-- **Multimodal analysis** across text, emojis, and platform-specific engagement
-- Experimental design using **AI-generated stimuli** for field or lab testing
-- Multi-agent chatbot framework to simulate persuasive brand-consumer interactions in controlled experiments
-- Role-specific agents (e.g., sentiment adjuster, content rewriter, ethical watchdog) for dynamic message generation
-- Mechanism modeling using causal inference and emotion–moral–ideological alignment pathways to uncover why and how audience reactions unfold
+How consumers perceive and respond to AI agents in marketing contexts
+The role of humor in shaping attitudes toward AI automation
+Evolving assemblages between humans and artificial intelligence in digital ecosystems
 
 ---
 
-### Purpose
+## Methods & Capabilities
+Machine Learning: Supervised learning, ensemble methods, neural networks, predictive behavioral modeling
 
-By combining **AI methods with theoretical rigor**, my research provides actionable insights for scholars and practitioners on how to navigate the risks and rewards of public-facing brand communication, especially during high-stakes societal shifts.
+Explainable AI: Interpretable hybrid systems, mechanistic interpretability, XAI techniques for marketing applications
+
+NLP & Text Analytics: GPT, BERT, RoBERTa, multimodal transformers, sentiment/stance detection, retrieval-augmented generation (RAG)
+
+Causal Inference: Panel data analysis, difference-in-differences, negative binomial regression, text-as-data econometrics
+
+Tools: Python, R, OpenAI API, Hugging Face, PyTorch, TensorFlow, Scikit-learn
+
+Data Scale: 13+ million social media posts | 500,000+ YouTube videos | Controlled experiments with 250+ participants
+
+---
+
+## Impact & Collaboration
+My research bridges computational social science and marketing strategy, offering data-driven insights for brands navigating polarized digital environments. I'm open to collaborations on projects involving AI, predictive consumer analytics, or large-scale social media analysis.
