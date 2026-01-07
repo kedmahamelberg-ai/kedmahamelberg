@@ -1,14 +1,27 @@
 ---
-
-layout: splash
+layout: single
 title: "Welcome"
 permalink: /
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: "/assets/images/KedmaHamelberg1092-a.jpg"
-
+author_profile: true
 ---
+
+<style>
+.portrait-header {
+  text-align: center;
+  margin-bottom: 2em;
+}
+.portrait-header img {
+  border-radius: 50%;
+  max-width: 250px;
+  border: 5px solid #f0f0f0;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+</style>
+
+<div class="portrait-header">
+  <img src="/assets/images/KedmaHamelberg1092-a.jpg" alt="Kedma Hamelberg">
+</div>
+
 I develop explainable AI systems that predict how consumers respond to marketing in digital environments—analyzing 13+ million social media posts to understand what drives engagement, emotion, and action.
 
 My research combines machine learning, natural language processing, and causal inference to decode brand communication during critical moments: from corporate stances on DEI to CEO messaging during war. Published in the Journal of Public Policy & Marketing and presented at EMAC and AMS, my work bridges computational social science and marketing strategy.
