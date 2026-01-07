@@ -46,4 +46,4 @@ Examines how shifts in corporate positioning on sensitive societal topics influe
 
 ### Purpose
 
-By combining **AI methods with theoretical rigor**, my research provides actionable insights for scholars and practitioners on how to navigate the risks and rewards of public-facing brand communication, especially during high-stakes societal moments.
+By combining **AI methods with theoretical rigor**, my research provides actionable insights for scholars and practitioners on how to navigate the risks and rewards of public-facing brand communication, especially during high-stakes societal shifts.
