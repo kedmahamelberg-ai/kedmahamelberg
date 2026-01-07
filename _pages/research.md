@@ -17,8 +17,9 @@ My dissertation, *Voices in Action: AI-Powered Insights from Corporate Messaging
 ---
 
 ### Article 1 – Emojis & SDG Messaging  
-Draws on **Media Richness Theory** and uses fine-tuned deep learning transformer models to classify emoji types in brand communication about the UN Sustainable Development Goals (SDGs), revealing that concrete visuals increase engagement.
+Draws on the **Media Richness Theory** and uses fine-tuned deep-learning transformer models to classify emoji types in brand communication about the UN Sustainable Development Goals (SDGs), revealing that concrete visuals increase engagement.
   → Accepted for EMAC 2025 and AMS 2025
+  → Under review in a top journal
 
 ### Article 2 – CEO Voice During War  
 Applies **machine learning-based emotion classification** and **framing analysis** to show that CEO messages during the Russia–Ukraine war outperform brand messages in driving public engagement—especially when emotionally expressive (Executive Symbolism Theory).
