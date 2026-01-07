@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: "/assets/images/KedmaHamelberg1092-a.jpg"
-excerpt: >
+
 ---
 I develop explainable AI systems that predict how consumers respond to marketing in digital environments—analyzing 13+ million social media posts to understand what drives engagement, emotion, and action.
 
