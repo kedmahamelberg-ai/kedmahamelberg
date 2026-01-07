@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.6"
-  overlay_image: "/assets/images/kedma_lecturer.png"
+  overlay_image: "/assets/images/kedma_lecturer.jpg"
 ---
 
 ## Teaching Philosophy & Experience
