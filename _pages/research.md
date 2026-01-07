@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: "/assets/images/KedmaHamelberg1092-a.jpg"
+  overlay_filter: "0.4"
+  overlay_image: "/assets/images/Kedma_Hamelberg1092.png"
 ---
 
 
