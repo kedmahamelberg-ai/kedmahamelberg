@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: "/assets/images/Kedma_Hamelberg1092.png"
+  overlay_image: "/assets/images/Kedma_Hamelberg.png"
 ---
 
 
