@@ -1,22 +1,29 @@
 {
   "scholar_id": "M8TAlNwAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=M8TAlNwAAAAJ&hl=en",
-  "last_updated": "2026-04-13T10:00:00Z",
+  "last_updated": "2026-04-13T18:14:51Z",
   "last_updated_human": "April 13, 2026",
   "stats": {
-    "total_citations": 0,
-    "h_index": 0,
-    "i10_index": 0
+    "total_citations": 20,
+    "citations_recent": 20,
+    "h_index": 1,
+    "h_index_recent": 1,
+    "i10_index": 1,
+    "i10_index_recent": 1
   },
-  "yearly_citations": [],
-  "publications": [
+  "yearly_citations": [
     {
-      "title": "Finding the Right Voice: How CEO Communication on the Russia–Ukraine War Drives Public Engagement and Digital Activism",
-      "authors": "K Hamelberg, K de Ruyter, WM van Dolen, U Konuş",
-      "venue": "Journal of Public Policy & Marketing, 2025",
-      "citations": 0,
+      "year": 2024,
+      "count": 1
+    },
+    {
       "year": 2025,
-      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8TAlNwAAAAJ&citation_for_view=M8TAlNwAAAAJ:u5HHmVD_uO8C"
+      "count": 11
+    },
+    {
+      "year": 2026,
+      "count": 7
     }
-  ]
+  ],
+  "publications": []
 }
