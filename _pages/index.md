@@ -33,7 +33,7 @@ fetch('/scholar-data.json')
 </script>
 
 
-I develop **responsible AI systems** that predict how consumers respond to marketing in digital environments—analyzing 13+ million social media posts to understand what drives engagement, emotion, and action.
+I develop **responsible AI systems** that predict how consumers respond to marketing in digital environments, analyzing 13+ million social media posts to understand what drives engagement, emotion, and action.
 
 My research combines **machine learning, natural language processing, and causal inference** to decode brand communication during critical moments: from CEO messaging during war to consumer behavior towards AI. Published in the *Journal of Public Policy & Marketing* and presented at EMAC and AMS, my work bridges computational social science and marketing strategy.
 
