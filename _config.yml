@@ -34,6 +34,7 @@ sass:
 
 head_scripts:
   - /_includes/head-custom.html
+<link rel="stylesheet" href="{{ '/assets/css/scholar-stats.css' | relative_url }}">
 
 google_analytics: G-0KJEDKBCY5
 
