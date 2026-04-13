@@ -16,30 +16,22 @@ fetch('/scholar-data.json')
   .then(r => r.json())
   .then(d => {
     document.getElementById('scholar-widget').innerHTML = `
-    <div style="margin:2rem 0;padding:1.5rem;border:1px solid #e1e4e8;border-radius:8px;background:linear-gradient(135deg,#fafbfc,#f0f2f5)">
-      <h3 style="margin:0 0 1rem;font-size:1.05rem;color:#24292f">📖 Research Impact</h3>
-      <div style="display:flex;gap:1rem;margin-bottom:1rem">
-        <a href="${d.profile_url}" target="_blank" style="flex:1;text-align:center;padding:1rem;background:#fff;border:1px solid #e1e4e8;border-radius:6px;text-decoration:none">
-          <span style="font-size:1.75rem;font-weight:700;color:#1a73e8;display:block">${d.stats.total_citations}</span>
-          <span style="font-size:.75rem;font-weight:500;color:#57606a;text-transform:uppercase;letter-spacing:.06em">Citations</span>
-        </a>
-        <a href="${d.profile_url}" target="_blank" style="flex:1;text-align:center;padding:1rem;background:#fff;border:1px solid #e1e4e8;border-radius:6px;text-decoration:none">
-          <span style="font-size:1.75rem;font-weight:700;color:#1a73e8;display:block">${d.stats.h_index}</span>
-          <span style="font-size:.75rem;font-weight:500;color:#57606a;text-transform:uppercase;letter-spacing:.06em">h-index</span>
-        </a>
-      </div>
-      ${d.publications.slice(0,3).map(p => `
-        <div style="padding:.5rem 0;border-top:1px solid #eef0f3">
-          <a href="${p.url}" target="_blank" style="font-size:.9rem;font-weight:500;color:#1a73e8;text-decoration:none">${p.title}</a>
-          <div style="font-size:.78rem;color:#656d76">${p.authors} · <em>${p.venue}</em>${p.citations > 0 ? ` · Cited ${p.citations}×` : ''}</div>
-        </div>`).join('')}
-      <p style="margin:.75rem 0 0;font-size:.8rem;color:#656d76;border-top:1px solid #e1e4e8;padding-top:.75rem">
-        <a href="${d.profile_url}" target="_blank" style="color:#1a73e8;text-decoration:none;font-weight:500">View full profile on Google Scholar →</a><br>
-        <small style="color:#8b949e">Auto-updated · Last sync: ${d.last_updated_human}</small>
-      </p>
+    <div style="display:inline-flex;gap:1.5rem;align-items:center;padding:.6rem 1rem;border:1px solid #e1e4e8;border-radius:6px;background:#f6f8fa;margin-bottom:1.5rem">
+      <a href="${d.profile_url}" target="_blank" style="text-decoration:none;display:flex;align-items:center;gap:.4rem">
+        <span style="font-size:1.3rem;font-weight:700;color:#1a73e8">${d.stats.total_citations}</span>
+        <span style="font-size:.7rem;font-weight:500;color:#57606a;text-transform:uppercase;letter-spacing:.05em">citations</span>
+      </a>
+      <span style="color:#d0d7de">|</span>
+      <a href="${d.profile_url}" target="_blank" style="text-decoration:none;display:flex;align-items:center;gap:.4rem">
+        <span style="font-size:1.3rem;font-weight:700;color:#1a73e8">${d.stats.h_index}</span>
+        <span style="font-size:.7rem;font-weight:500;color:#57606a;text-transform:uppercase;letter-spacing:.05em">h-index</span>
+      </a>
+      <span style="color:#d0d7de">|</span>
+      <a href="${d.profile_url}" target="_blank" style="font-size:.75rem;color:#1a73e8;text-decoration:none;font-weight:500">Google Scholar →</a>
     </div>`;
   });
 </script>
+
 
 I develop **responsible AI systems** that predict how consumers respond to marketing in digital environments—analyzing 13+ million social media posts to understand what drives engagement, emotion, and action.
 
