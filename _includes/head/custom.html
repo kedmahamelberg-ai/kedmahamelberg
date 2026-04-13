@@ -1,0 +1,24 @@
+<link rel="stylesheet" href="/assets/css/scholar-stats.css">
+<link rel="stylesheet" href="/assets/css/custom.css">
+<style>
+  .page__hero--overlay[style] {
+      background-position: center 15% !important;
+      background-size: cover !important;
+  }
+  .page__hero--overlay .page__content {
+    font-size: 1.1rem;
+    max-width: 600px;
+    line-height: 1.6;
+  }
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var hero = document.querySelector('.page__hero--overlay');
+  if (hero) hero.style.backgroundPosition = 'center 15%';
+});
+</script>
+{% if site.google_analytics %}
+{% include analytics.html %}
+{% endif %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5170234738371400"
+     crossorigin="anonymous"></script>
