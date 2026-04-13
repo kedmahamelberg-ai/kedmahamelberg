@@ -21,7 +21,6 @@ header:
 }
 </style>
 
-{% include scholar-stats.html %}
 
 I develop **explainable AI systems** that predict how consumers respond to marketing in digital environments—analyzing 13+ million social media posts to understand what drives engagement, emotion, and action.
 
@@ -29,9 +28,15 @@ My research combines **machine learning, natural language processing, and causal
 
 I translate these insights into the classroom, teaching **Applied AI for Marketing** and **Digital Marketing Analytics** to MSc students (rated 4.9/5.0). My courses equip future marketers with hands-on skills in Python, machine learning, and AI-powered consumer analytics.
 
-**Currently seeking tenure-track positions in digital marketing & AI**. Open to research collaborations and AI education partnerships.
+**Currently seeking tenure-track positions in digital marketing & AI**.
+Open to research collaborations and AI education partnerships.
 
 ---
+
+{% include scholar-stats.html %}
+
+---
+
 
   📬 [Get in touch](mailto:kedma@hamelberg-ai.com)
 
