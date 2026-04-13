@@ -32,8 +32,6 @@ timezone:
 sass:
   style: compressed
 
-head_scripts:
-  - /_includes/head-custom.html
 
 google_analytics: G-0KJEDKBCY5
 
