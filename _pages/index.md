@@ -33,14 +33,13 @@ fetch('/scholar-data.json')
 </script>
 
 
-I develop **responsible AI systems** that predict how consumers respond to marketing in digital environments, analyzing 13+ million social media posts to understand what drives engagement, emotion, and action.
+I build **AI systems** that decode how organisations and consumers communicate in digital environments. My work combines **machine learning, natural language processing, prediction and causal inference** to analyse large-scale data, from 13+ million social media posts to thousands of news articles, and turn it into actionable insight.
 
-My research combines **machine learning, natural language processing, and causal inference** to decode brand communication during critical moments: from CEO messaging during war to consumer behavior towards AI. Published in the *Journal of Public Policy & Marketing* and presented at EMAC and AMS, my work bridges computational social science and marketing strategy.
+My research focuses on corporate and brand communication during critical societal moments: CEO messaging during geopolitical crisis, consumer responses to AI, and how digital platforms shape public narratives around sustainability and inclusion. Published in the Journal of Public Policy & Marketing and presented at EMAC and AMS, my work bridges computational social science with marketing strategy and organisational decision-making.
 
-I translate these insights into the classroom, teaching **Applied AI for Marketing** and **Digital Marketing Analytics** to MSc students (rated 4.9/5.0). My courses equip future marketers with hands-on skills in Python, machine learning, and AI-powered consumer analytics.
+I also design AI education for professionals. My Applied AI for Marketing course at the University of Amsterdam (rated 4.9/5.0) equips executives and graduate students with **hands-on skills in Python, LLMs, and responsible AI deployment, grounded in the EU AI Act.**
 
-**Currently seeking tenure-track positions in digital marketing & AI**.
-Open to research collaborations and AI education partnerships.
+Open to research collaborations, applied AI partnerships, and opportunities where rigorous analysis meets real-world impact.
 
 
 ---
