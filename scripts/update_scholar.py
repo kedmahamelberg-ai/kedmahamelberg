@@ -31,6 +31,7 @@ def fetch_serpapi(api_key: str) -> dict:
         "author_id": SCHOLAR_ID,
         "hl": "en",
         "num": "100",
+        "no_cache": "true",
         "api_key": api_key,
     }
     url = "https://serpapi.com/search.json?" + urllib.parse.urlencode(params)
