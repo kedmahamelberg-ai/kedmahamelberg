@@ -1,15 +1,12 @@
 {
   "scholar_id": "M8TAlNwAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=M8TAlNwAAAAJ&hl=en",
-  "last_updated": "2026-05-18T09:44:14Z",
-  "last_updated_human": "May 18, 2026",
+  "last_updated": "2026-05-25T10:40:08Z",
+  "last_updated_human": "May 25, 2026",
   "stats": {
-    "total_citations": 20,
-    "citations_recent": 20,
+    "total_citations": 21,
     "h_index": 1,
-    "h_index_recent": 1,
-    "i10_index": 1,
-    "i10_index_recent": 1
+    "i10_index": 1
   },
   "yearly_citations": [
     {
@@ -18,12 +15,45 @@
     },
     {
       "year": 2025,
-      "count": 11
+      "count": 12
     },
     {
       "year": 2026,
       "count": 7
     }
   ],
-  "publications": []
+  "publications": [
+    {
+      "title": "Finding the right voice: How CEO communication on the russia–Ukraine war drives public engagement and digital activism",
+      "authors": "K Hamelberg, K de Ruyter, W van Dolen, U Konuş",
+      "venue": "Journal of Public Policy & Marketing 44 (1), 140-159, 2025",
+      "year": 2025,
+      "citations": 21,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8TAlNwAAAAJ&pagesize=100&citation_for_view=M8TAlNwAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "title": "Face a storm or be gone with the wind? How political user-generated content shapes consumers' reactions to brand DEI decisions",
+      "authors": "K Hamelberg, W van Dolen, K de Ruyter",
+      "venue": "SSRN, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8TAlNwAAAAJ&pagesize=100&citation_for_view=M8TAlNwAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+      "title": "Emojis for Good: How Emoji Symbolism in Brand Communication Affects Consumer Active Engagement with Sustainable Development Goals",
+      "authors": "K Hamelberg, U Konus",
+      "venue": "EMAC, https://proceedings.emac-online.org/pdfs, 2025",
+      "year": 2025,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8TAlNwAAAAJ&pagesize=100&citation_for_view=M8TAlNwAAAAJ:qjMakFHDy7sC"
+    },
+    {
+      "title": "The Effects of Emoji Symbolism on Consumer Active Engagement",
+      "authors": "K Hamelberg, U Konus",
+      "venue": "Available at SSRN 5040133, 2024",
+      "year": 2024,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8TAlNwAAAAJ&pagesize=100&citation_for_view=M8TAlNwAAAAJ:2osOgNQ5qMEC"
+    }
+  ]
 }
