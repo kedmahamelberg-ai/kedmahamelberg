@@ -132,7 +132,7 @@ Every UvA defense opens with a **layman's talk**: a short public lecture the can
 
 Three contexts shaped the dissertation:
 
-- **The Russia–Ukraine war (Chapter 2):** should the CEO speak on their own social media account, or the company on the brand's? Findings suggest CEO and brand voices are two different tools for two different goals — CEO voices generate more engagement, especially on distant suffering, while brand voices better mobilize citizens to act when the issue hits close to home.
+- **The Russia–Ukraine war (Chapter 2):** should the CEO speak on their own social media account, or the company on the brand's? Findings suggest that CEO and brand voices are two distinct tools for two distinct goals: CEO voices generate more engagement, especially on distant suffering, while brand voices better mobilize citizens to act when the issue hits close to home.
 - **The DEI debate (Chapter 3):** citizens acted strongly, but not always as one might expect. When brand stances and citizen posts aligned pro-DEI, audiences rewarded the brand; when they aligned anti-DEI, audiences punished it. Alignment alone was not enough; the direction of alignment mattered. No neutral move.
 - **Sustainable Development Goals and emojis (Chapter 4):** When brands speak about causes far from what they usually do, engagement drops. Can something as small as an emoji help close that gap? Findings suggest that a symbol emoji that *stretches* meaning (a Pride flag 🏳️‍🌈 next to "Love wins") narrows the gap; an emoji that only *repeats* what the text already says does not.
 
