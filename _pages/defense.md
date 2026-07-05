@@ -21,10 +21,6 @@ gallery_ceremony:
     title: "The paranymph opens the ceremony"
 
 gallery_defense:
-  - url: /assets/images/defense/04-podium-with-slide.jpg
-    image_path: /assets/images/defense/04-podium-with-slide.jpg
-    alt: "Kedma Hamelberg at the podium presenting research on 250,000+ social media posts"
-    title: "Presenting the research"
   - url: /assets/images/defense/07-podium-committee.jpg
     image_path: /assets/images/defense/07-podium-committee.jpg
     alt: "Wide view of the defense with committee seated across from the candidate Kedma Hamelberg"
@@ -126,6 +122,7 @@ At my defense, my paranymphs were my husband, **Daniel Hamelberg**, and my frien
 ## The layman's talk
 
 Every UvA defense opens with a **layman's talk**: a short public lecture the candidate gives to explain the dissertation in plain terms to the audience, which typically includes family, friends, and visitors from outside the field. It is introduced by one of the paranymphs, who steps to the microphone two minutes before the hour, before the committee has entered the room. The talk lasts about ten minutes, and must end by twelve minutes past the hour. Only then does the formal opposition begin.
+![Kedma Hamelberg at the podium presenting research on 250,000+ social media posts](/assets/images/defense/04-podium-with-slide.jpg){: .align-center}
 
 **My talk began where the dissertation began: in September 2021.** At the time, it felt like the world was in the final leg of the pandemic as masks were coming off and schools were reopening. It turned out to be the beginning of a sequence of crises, not the end of one. In the years since, my research has sought to understand how corporations communicate in times of crisis.
 
