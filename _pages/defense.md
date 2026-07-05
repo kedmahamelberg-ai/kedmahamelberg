@@ -117,8 +117,7 @@ The word *paranymph* comes from the Ancient Greek *paránymphos* (παράνυμ
 
 Historically, paranymphs had a substantive role. According to accounts preserved by Dutch universities and academic historians, they could "act as a backup for the doctoral candidate to ask for advice when answering questions, or even take over answering the questions." Folklore also describes them as protective attendants in an era when defenses were more contentious. Today, the role is ceremonial, comparable to a best man or bridesmaid at a wedding, and paranymphs stand beside the candidate as a public gesture of support.
 
-At my defense, my paranymphs were my husband, **Daniel Hamelberg**, and my friend, **Gabriella Guinlle**.
----
+At my defense, my paranymphs were my husband, **Daniel Hamelberg**, and my friend, **Dr. Gabriella Guinlle**.---
 
 ## The ceremony
 
