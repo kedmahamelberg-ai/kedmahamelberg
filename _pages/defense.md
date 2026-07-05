@@ -107,7 +107,7 @@ Doctoral defense · University of Amsterdam · Amsterdam Business School
 
 ## About the Dutch defense tradition
 
-Dutch PhD defenses are formal public ceremonies held in centuries-old academic chapels. The candidate is opposed for one hour by a committee of six professors, each questioning the work in turn. Two **paranymphs** stand beside the candidate throughout. The **Beadle** (*Pedel*) opens and closes the ceremony carrying the university mace, and calls "*Hora est*" precisely one hour in — ending questions mid-sentence if necessary.
+Dutch PhD defenses are formal public ceremonies held in centuries-old academic chapels. The candidate is opposed for one hour by a committee of five to eight professors, each questioning the work in turn. Two **paranymphs** stand beside the candidate throughout. The **Beadle** (*Pedel*) opens and closes the ceremony carrying the university mace, and calls "*Hora est*" precisely one hour in — ending questions mid-sentence if necessary.
 
 My defense was held at the **Agnietenkapel**, part of the University of Amsterdam since 1632 — one of the oldest academic buildings in continental Europe still in active use.
 
