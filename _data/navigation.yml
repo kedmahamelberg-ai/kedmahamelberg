@@ -5,5 +5,7 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
+  - title: "Defense"
+    url: /defense/
   - title: "CV"
     url: /cv/
