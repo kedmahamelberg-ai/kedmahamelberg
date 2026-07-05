@@ -166,9 +166,9 @@ The defense committee, whose questions elevated the work:
 After the committee deliberates, the promoters confer the doctorate, hand over the diploma, and deliver a *laudatio* (praise speech).
 {% include gallery id="gallery_conferral" caption="The moment of conferral." %}
 
-## After the defense
+## Dr. Hamelberg
 
-Tradition holds that new doctors sign a wall in the Agnietenkapel that has held signatures of PhDs going back decades. My paranymphs, my husband Daniel Hamelberg and my friend Dr. Gabriella Guinlle, stood beside me throughout.
+Tradition holds that new doctors sign a wall in the Agnietenkapel that has held signatures of PhDs going back decades. My paranymphs, my husband Daniel Hamelberg and my friend Gabriella Guinlle, also signed.
 
 {% include gallery id="gallery_after" caption="Signing the tradition wall with my paranymphs. Group photo with the committee outside Agnietenkapel." %}
 
