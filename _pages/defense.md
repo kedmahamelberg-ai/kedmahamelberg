@@ -65,10 +65,6 @@ gallery_committee:
     image_path: /assets/images/defense/09-committee-standing.jpg
     alt: "Kedma Hamelberg defense committee standing in academic gowns"
     title: "The committee"
-  - url: /assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg
-    image_path: /assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg
-    alt: "Kedma Hamelberg standing with the PhD committee"
-    title: "With the committee"
 
 gallery_conferral:
   - url: /assets/images/defense/11-diploma-handover.jpg
@@ -79,6 +75,10 @@ gallery_conferral:
     image_path: /assets/images/defense/12-kedma-hamelberg-standing.jpg
     alt: "Kedma Hamelberg standing with paranymphs before the verdict"
     title: "Before the verdict"
+  - url: /assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg
+    image_path: /assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg
+    alt: "Kedma Hamelberg standing with the PhD committee"
+    title: "With the committee"
 
 gallery_after:
   - url: /assets/images/defense/02-signing-wall.jpg
