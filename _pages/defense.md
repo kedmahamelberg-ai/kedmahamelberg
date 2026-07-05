@@ -161,6 +161,20 @@ The defense committee, whose questions elevated the work:
 
 {% include gallery id="gallery_committee" caption="The defense committee in academic gowns." %}
 
+## On the methodology
+
+*Voices in Action* combined large-scale computational analysis with controlled experiments. Across the three empirical chapters, AI helped identify and classify over 250,000 social media posts against theory-driven rubrics developed with human coders. The AI never made the categorical decisions as those were grounded in theory and validated by human raters. AI scaled the classification to a size that would have taken years to do manually. Each empirical finding from the field data was then triangulated through a controlled experiment.
+
+At the defense, both Prof. dr. Corine Boon and Dean Marc Salomon addressed this methodological choice directly.
+
+> *"I really like the systematic analysis of social media data because it's novel but also that it's combined with your experimental studies to address mechanisms. […] You apply computational social science methods in your dissertation… you demonstrate the value of systematic methodological triangulation."*
+> — **Prof. dr. Corine Boon**
+
+> *"As a dean, I liked your work very much because it stands for everything that the business school is standing for. It's very innovative. You took some risk using, at that time, very modern tools like large language models."*
+> — **Prof. dr. Marc Salomon**, Dean, Amsterdam Business School
+
+The combination of computational scale, human-validated classification, and experimental replication is the methodological signature of the dissertation.
+
 ## The verdict and conferral
 
 After the committee deliberates, the promoters confer the doctorate, hand over the diploma, and deliver a *laudatio* (praise speech).
