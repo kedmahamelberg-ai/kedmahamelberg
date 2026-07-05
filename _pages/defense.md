@@ -1,4 +1,4 @@
-[defense (1).md](https://github.com/user-attachments/files/29671429/defense.1.md)[Uploading defense (1).---
+---
 title: "PhD Defense — Voices in Action"
 permalink: /defense/
 layout: single
