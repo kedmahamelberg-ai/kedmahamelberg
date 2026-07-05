@@ -107,17 +107,17 @@ Doctoral defense · University of Amsterdam · Amsterdam Business School
 
 ## About the Dutch defense tradition
 
-Dutch PhD defenses are formal public ceremonies held in centuries-old academic chapels. The candidate is opposed for one hour by a committee of five to eight professors, each questioning the work in turn. Two **paranymphs** stand beside the candidate throughout. The **Beadle** (*Pedel*) opens and closes the ceremony carrying the university mace, and calls "*Hora est*" precisely one hour in — ending questions mid-sentence if necessary.
+Dutch PhD defenses are formal public ceremonies held in centuries-old academic chapels. The candidate is opposed for one hour by a committee of five to eight professors, each questioning the work in turn. Two **paranymphs** stand beside the candidate throughout. The **Beadle** (*Pedel*) opens and closes the ceremony, carrying the university mace, and calls "*Hora est*" precisely one hour in, ending questions mid-sentence if necessary.
 
-My defense was held at the **Agnietenkapel**, part of the University of Amsterdam since 1632 — one of the oldest academic buildings in continental Europe still in active use.
+My defense was held at the **Agnietenkapel**, a 15th-century Gothic chapel and the birthplace of the University of Amsterdam. The Athenaeum Illustre, the university's direct predecessor, opened there on 8 January 1632, when Gerardus Vossius delivered his inaugural lecture. The chapel has hosted UvA's academic ceremonies ever since.
 
 ## On paranymphs
 
-The word *paranymph* comes from the Ancient Greek *paránymphos* (παράνυμφος), meaning "beside the bride" — originally a wedding attendant who accompanied the bridegroom. The tradition entered Dutch academia through the older metaphor of a doctorate as a *de facto* marriage to the university.
+The word *paranymph* comes from the Ancient Greek *paránymphos* (παράνυμφος), meaning "beside the bride", originally a wedding attendant who accompanied the bridegroom. The tradition entered Dutch academia through the older metaphor of a doctorate as a *de facto* marriage to the university.
 
-Historically, paranymphs had a substantive role. According to accounts preserved by Dutch universities and academic historians, they could "act as a backup for the doctoral candidate to ask for advice when answering questions, or even take over answering the questions." Folklore also describes them as protective attendants in an era when defenses were more contentious. Today the role is ceremonial — comparable to a best man or bridesmaid at a wedding — and paranymphs stand beside the candidate as a public gesture of support.
+Historically, paranymphs had a substantive role. According to accounts preserved by Dutch universities and academic historians, they could "act as a backup for the doctoral candidate to ask for advice when answering questions, or even take over answering the questions." Folklore also describes them as protective attendants in an era when defenses were more contentious. Today, the role is ceremonial, comparable to a best man or bridesmaid at a wedding, and paranymphs stand beside the candidate as a public gesture of support.
 
-At my defense, my paranymphs were my husband **Daniel Hamelberg** and my friend **Dr. Gabriella Guinlle**.
+At my defense, my paranymphs were my husband, **Daniel Hamelberg**, and my friend (soon-to-be) **Dr. Gabriella Guinlle**.
 
 ---
 
@@ -150,7 +150,7 @@ The defense committee, whose questions elevated the work:
 
 ## The verdict and conferral
 
-After the committee deliberates, the promotor confers the doctorate and hands over the diploma.
+After the committee deliberates, the promoters confer the doctorate, hand over the diploma, and deliver a laudatio (praise speech).
 
 {% include gallery id="gallery_conferral" caption="The moment of conferral." %}
 
@@ -176,6 +176,7 @@ Available on request via [kedma@hamelberg-ai.com](mailto:kedma@hamelberg-ai.com)
 
 *Photos by [Par-Pa Fotografie](https://par-pa.nl/).*
 
+*Historical notes on the Agnietenkapel draw on [Wikipedia](https://nl.wikipedia.org/wiki/Agnietenkapel_(Amsterdam) and the [University of Amsterdam's own history page] (https://www.uva.nl/en/about-the-uva/about-the-university/history/history.html).*
 *Historical notes on the paranymph tradition draw on [Wikipedia](https://en.wikipedia.org/wiki/Paranymph), Erasmus University Rotterdam's PhD ceremony documentation, and accounts collected by [Gildeprint](https://www.gildeprint.nl/en/2024/05/09/role-paranymph-promotion/).*
 
 
