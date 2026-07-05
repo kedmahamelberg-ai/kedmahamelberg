@@ -177,7 +177,7 @@ The combination of computational scale, human-validated classification, and expe
 
 ## The verdict and conferral
 
-After the committee deliberates, the promotors confer the doctorate, hand over the diploma, and deliver a *laudatio* (praise speech).
+After the committee deliberates, the co-promotors confer the doctorate, hand over the diploma, and deliver a *laudatio* (praise speech).
 {% include gallery id="gallery_conferral" caption="The moment of conferral." %}
 
 ## Dr. Hamelberg
