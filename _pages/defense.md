@@ -182,7 +182,7 @@ After the committee deliberates, the co-promotors confer the doctorate, hand ove
 
 ## Dr. Hamelberg
 
-Tradition holds that new doctors sign a wall in the Agnietenkapel that has held signatures of PhDs going back decades. My paranymphs, my husband Daniel Hamelberg and my friend Gabriella Guinlle, also signed.
+Tradition holds that new doctors sign a wall in the Agnietenkapel that has held the signatures of PhDs for decades. My paranymphs also signed :)
 
 {% include gallery id="gallery_after" caption="Signing the tradition wall with my paranymphs. Group photo with the committee outside Agnietenkapel." %}
 
