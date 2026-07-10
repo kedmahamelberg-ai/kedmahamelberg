@@ -80,7 +80,12 @@ gallery_conferral:
     alt: "Kedma Hamelberg standing with paranymphs before the verdict"
     title: "Before the verdict"
 
-
+gallery_methodology:
+  - url: /assets/images/defense/21-kedma-hamelberg-phd-dissertation.jpg
+    image_path: /assets/images/defense/21-kedma-hamelberg-phd-dissertation.jpg
+    alt: "Kedma Hamelberg, PhD dissertation book"
+    title: "PhD dissertation book"
+    
 gallery_after:
   - url: /assets/images/defense/02-signing-wall.jpg
     image_path: /assets/images/defense/02-signing-wall.jpg
@@ -174,6 +179,8 @@ At the defense, both Prof. dr. Corine Boon and Dean Marc Salomon addressed this 
 > — **Prof. dr. Marc Salomon**, Dean, Amsterdam Business School
 
 The combination of computational scale, human-validated classification, and experimental replication is the methodological signature of the dissertation.
+
+{% include gallery id="gallery_methodology" caption="PhD dissertation book." %}
 
 ## The verdict and conferral
 
