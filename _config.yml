@@ -14,6 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+url: "https://hamelberg-ai.com"
+baseurl: ""
+repository: "kedmahamelberg-ai/kedmahamelberg"
+timezone: "Europe/Amsterdam"
+
 title: "Kedma Hamelberg | AI Research & Strategic Analytics"
 email: "kedma@hamelberg-ai.com"
 description: >-
@@ -94,17 +99,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-nav:
-  - title: "Home"
-    url: /
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Defense"
-    url: /defense/
-  - title: "CV"
-    url: /cv/
+
 
 
 
