@@ -41,6 +41,26 @@ I also design AI education for professionals. My Applied AI for Marketing course
 
 Open to research collaborations, applied AI partnerships, and opportunities where rigorous analysis meets real-world impact.
 
+<section class="observatory-feature">
+  <p class="observatory-kicker">
+    INTERACTIVE RESEARCH PLATFORM
+  </p>
+
+  <h2>AI Empowerment Observatory</h2>
+
+  <p>
+    A living, source-backed map of how AI developments are
+    changing human capability, creativity, autonomy, and public
+    influence around the world.
+  </p>
+
+  <a
+    class="observatory-button"
+    href="https://observatory.hamelberg-ai.com"
+  >
+    Explore the observatory →
+  </a>
+</section>
 
 ---
 
