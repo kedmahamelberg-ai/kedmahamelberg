@@ -8,7 +8,7 @@ author_profile: false
 
 <style>
 .kh-about-hero{display:grid;grid-template-columns:1.1fr .9fr;gap:1rem;align-items:stretch;margin-top:-1.4rem}
-.kh-about-hero__copy,.kh-about-hero__image{border-radius:20px;overflow:hidden}
+.kh-about-hero__copy,.kh-about-hero__image{border-radius:15px;overflow:hidden}
 .kh-about-hero__copy{padding:clamp(2.6rem,5vw,5.4rem);color:#fff;background:radial-gradient(circle at 90% 10%,rgba(23,111,120,.36),transparent 34%),linear-gradient(145deg,#0d223d,#08192e)}
 .kh-about-hero__copy .kh-kicker{color:#9fc1ff}
 .kh-about-hero__copy h1{margin:0;max-width:760px;color:#fff;font-family:Georgia,"Times New Roman",serif;font-size:clamp(2.7rem,5vw,5.3rem);line-height:.98;letter-spacing:-.04em}
