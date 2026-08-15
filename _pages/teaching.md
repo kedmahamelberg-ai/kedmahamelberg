@@ -2,116 +2,99 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.6"
-  overlay_image: "/assets/images/kedma_lecturer_digital_marketing.png"
+classes: wide
+author_profile: false
 ---
 
-## Teaching Philosophy & Experience
+<div class="kh-page">
 
-I approach teaching as an evidence-based, student-centered practice grounded in the power of **education, human connection**, and **applied learning**. My classrooms are designed to foster intellectual rigor, collaboration, and long-term professional value.
+<section class="kh-page-hero">
+  <p class="kh-kicker">Academic teaching</p>
+  <h1>Applied learning for AI, analytics, and digital strategy.</h1>
+  <p>
+    My teaching combines technical fluency, business application, responsible AI,
+    and a classroom culture built around discussion, feedback, and professional growth.
+  </p>
 
-I intentionally learn my students’ names, actively engage them in discussion, and cultivate peer connection as a resource—both for navigating the course and as a source of **lifelong career support**.
+  <div class="kh-actions">
+    <a class="kh-btn kh-btn--dark" href="/talks/">Talks & executive training →</a>
+  </div>
+</section>
 
-My goal is to prepare students—whether full-time learners or working professionals—for the realities of today’s data-driven, ethically complex marketing landscape.
+<section class="kh-proof-bar">
+  <span><strong>4.9/5</strong> Applied AI course rating</span>
+  <span><strong>Best Lecturer</strong> Executive Digital Business Track</span>
+  <span><strong>MSc + Executive</strong> audiences</span>
+  <span><strong>Hands-on</strong> Python, LLMs & analytics</span>
+</section>
 
-### My teaching spans:
+<section class="kh-section">
+  <div class="kh-section__heading">
+    <p class="kh-kicker">Courses</p>
+    <h2>From AI literacy to analytics and causal reasoning.</h2>
+  </div>
 
-- Designing new courses from scratch  
-- Redesigning and coordinating existing programs  
-- Delivering lectures and interactive tutorials  
-- Supervising Master’s theses and mentoring career transitions
+  <div class="kh-course-list">
+    <article>
+      <span>Master’s elective</span>
+      <h3>Applied AI for Marketing</h3>
+      <p>
+        Functional, ethical, and rhetorical AI literacy through Python,
+        transformers, LLM workflows, agentic AI, business data, and responsible deployment.
+      </p>
+    </article>
 
-### Courses taught:
+    <article>
+      <span>MSc + Executive Master’s</span>
+      <h3>Digital Marketing & Analytics</h3>
+      <p>
+        Customer journeys, campaign measurement, attribution, structured and
+        unstructured data, predictive models, and AI-supported decision-making.
+      </p>
+    </article>
 
-- **Applied AI for Marketing** (Master’s Elective)  
-- **Digital Marketing & Analytics (DMA)** – Core course for both full-time and Executive Master’s students  
-- **Quantitative Data Analysis 2** (Bachelor’s, Economics)
+    <article>
+      <span>Bachelor Economics</span>
+      <h3>Quantitative Data Analysis 2</h3>
+      <p>
+        Statistical inference, regression, ANOVA, model diagnostics, and
+        individualized support for applied quantitative reasoning.
+      </p>
+    </article>
+  </div>
+</section>
 
----
+<section class="kh-section kh-section--soft">
+  <div class="kh-section__heading">
+    <p class="kh-kicker">Teaching approach</p>
+    <h2>Technical depth works better when students feel able to experiment.</h2>
+  </div>
 
-## Applied AI for Marketing (Master’s Elective)
+  <div class="kh-card-grid kh-card-grid--3">
+    <article class="kh-card">
+      <h3>Applied</h3>
+      <p>Real business data, code, cases, and decision problems.</p>
+    </article>
 
-This course trains students to critically assess and deploy AI in marketing contexts. It is structured around three core literacies:
+    <article class="kh-card">
+      <h3>Responsible</h3>
+      <p>Bias, transparency, fairness, explainability, governance, and the EU AI Act.</p>
+    </article>
 
-- **Functional AI literacy**: How AI works, conceptually and practically  
-- **Ethical AI literacy**: How to navigate the ethical issues related to AI (e.g., Fairness, bias, transparency, and responsible use)  
-- **Rhetorical AI literacy**: How natural language and AI-generated content persuades and performs
+    <article class="kh-card">
+      <h3>Human</h3>
+      <p>Discussion, mentoring, peer connection, and feedback that extends beyond the assignment.</p>
+    </article>
+  </div>
+</section>
 
-### Key Features
+<section class="kh-testimonial-section">
+  <p class="kh-kicker">Student feedback</p>
+  <div class="kh-quote-grid">
+    <blockquote>“Thanks to your teaching style, I had fun while learning AI.”</blockquote>
+    <blockquote>“A true gem—the best tutorial teacher I had.”</blockquote>
+    <blockquote>“She creates a community—her feedback goes beyond the classroom.”</blockquote>
+  </div>
+</section>
 
-- Python-based tutorials in Google Colab  
-- Deep learning models (e.g., BERT, transformers for text and image classification)  
-- Business data from YouTube, websites, and social media  
-- Predictive and causal modeling (e.g., DiD, logistic/linear regression)  
-- Tutorials on single, multi-agent, and agentic AI  
-- Live debates on political polarization, fairness, and explainability in AI  
-- Collaborations with businesses to solve real challenges (e.g., Danone, OHRA, and Lucid Motors)
-
-### Sample Student Exercises
-
-- Design custom AI agents for marketing use cases  
-- Compare zero-shot vs fine-tuned sentiment models  
-- Use AI to classify emotions, values, or persuasive styles in brand messaging
-
-### Outcome
-
-Students complete a strategic portfolio demonstrating fluency in AI tools, data analysis, and critical application to real-world challenges.
-
----
-
-## Digital Marketing & Analytics (DMA)
-
-DMA is a foundational course for both traditional MSc students and **Executive Master’s students with industry experience**. It covers performance metrics, customer journeys, and omnichannel campaign design.
-
-### AI & Analytics Focus
-
-- Campaign strategy using AI-powered segmentation and persuasion  
-- Analysis of structured and unstructured data (CRM, clickstream, scraped content)  
-- Regression and classification modeling with real business datasets  
-- Personalization, emotion-rich content, and multi-touch attribution frameworks
-
-### Innovations
-
-- AI applied to multimodal data and predictive analytics modules
-- Use of AI for language and paralanguage classification (topic modeling, sentiment, emotion, stance, etc.)
-- Ethical debates on AI surveillance, bias, and political ad targeting  
-- Applied projects simulating real digital marketing pipelines
-
-### Outcome
-
-Students leave the course with a portfolio-ready **analytics toolkit** and confidence in applying AI to omnichannel strategy and ROI modeling.
-
----
-
-## Quantitative Data Analysis 2 (Bachelor, Economics)
-
-This statistics course introduces students to foundational quantitative methods using SPSS.
-
-### Sample of Topics Covered
-
-- Hypothesis testing and statistical inference  
-- Linear and logistic regression  
-- ANOVA and model diagnostics
-
-### Teaching Approach
-
-I led lab sessions and offered **individualized support**, ensuring students built confidence in applying statistical concepts independently.
-
-> “Kedma was clear, structured, and incredibly supportive.”  
-> “A true gem—the best tutorial teacher I had.”
-
----
-
-## 🌟🌟🌟🌟🌟 Recognition & Student Feedback
-
-- Elected *Best Lecturer* by Executive students in the Digital Business Track  
-- Consistently rated **8+/10** for clarity, engagement, and real-world relevance  
-- Known for combining academic rigor with warmth, humor, and real-world orientation  
-- Recognized for **mentoring, personalized support**, and helping students build lasting professional networks
-
-> **“Thanks to your teaching style, I had fun while learning AI.”**  
-> **“She creates a community—her feedback goes beyond the classroom.”**  
-> **“Challenging, funny, and deeply committed to our growth.”**
+</div>
