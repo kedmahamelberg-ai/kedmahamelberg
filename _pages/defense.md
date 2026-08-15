@@ -1,215 +1,253 @@
 ---
-title: "PhD Defense — Voices in Action"
-permalink: /defense/
 layout: single
-author_profile: true
-classes: wide
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/defense/04-podium-with-slide.jpg
-  caption: "Agnietenkapel, Amsterdam · 30 June 2026"
-
-gallery_ceremony:
-  - url: /assets/images/defense/05-beadle-entering.jpg
-    image_path: /assets/images/defense/05-beadle-entering.jpg
-    alt: "Beadle carrying the University of Amsterdam mace enters the Agnietenkapel"
-    title: "The Beadle enters"
-  - url: /assets/images/defense/14-gabriella-guinlle-paranymph-microphone.jpg
-    image_path: /assets/images/defense/14-gabriella-guinlle-paranymph-microphone.jpg
-    alt: "Paranymph Gabriella Guinlle addressing the audience at the opening of the layman's talk"
-    title: "The paranymph opens the ceremony"
-
-gallery_defense:
-  - url: /assets/images/defense/07-podium-committee.jpg
-    image_path: /assets/images/defense/07-podium-committee.jpg
-    alt: "Wide view of the defense with committee seated across from the candidate Kedma Hamelberg"
-    title: "One hour of opposition"
-  - url: /assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg
-    image_path: /assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg
-    alt: "Close-up of Kedma Hamelberg speaking at the podium"
-    title: "Defending the work"
-  - url: /assets/images/defense/06-portrait-lineage-kedma-hamelberg.jpg
-    image_path: /assets/images/defense/06-portrait-lineage-kedma-hamelberg.jpg
-    alt: "Kedma Hamelberg in profile with historical portrait behind"
-    title: "In the lineage"
-
-gallery_opposition:
-  - url: /assets/images/defense/15-ronald-does-voorzitter.jpg
-    image_path: /assets/images/defense/15-ronald-does-voorzitter.jpg
-    alt: "Prof. Ronald Does, voorzitter of the defense committee"
-    title: "Ronald Does (voorzitter)"
-  - url: /assets/images/defense/16-marc-salomon-dean.jpg
-    image_path: /assets/images/defense/16-marc-salomon-dean.jpg
-    alt: "Prof. Marc Salomon, Dean of the Amsterdam Business School"
-    title: "Marc Salomon"
-  - url: /assets/images/defense/17-corine-boon.jpg
-    image_path: /assets/images/defense/17-corine-boon.jpg
-    alt: "Prof. Corine Boon"
-    title: "Corine Boon"
-  - url: /assets/images/defense/18-raoul-kubler.jpg
-    image_path: /assets/images/defense/18-raoul-kubler.jpg
-    alt: "Prof. Raoul Kübler"
-    title: "Raoul Kübler"
-  - url: /assets/images/defense/19-bernadette-van-ewijk.jpg
-    image_path: /assets/images/defense/19-bernadette-van-ewijk.jpg
-    alt: "Dr. Bernadette van Ewijk"
-    title: "Bernadette van Ewijk"
-  - url: /assets/images/defense/20-francesca-sotgiu.jpg
-    image_path: /assets/images/defense/20-francesca-sotgiu.jpg
-    alt: "Prof. Francesca Sotgiu"
-    title: "Francesca Sotgiu"
-
-gallery_committee:
-  - url: /assets/images/defense/09-committee-standing.jpg
-    image_path: /assets/images/defense/09-committee-standing.jpg
-    alt: "Kedma Hamelberg defense committee standing in academic gowns"
-    title: "The committee"
-  - url: /assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg
-    image_path: /assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg
-    alt: "Kedma Hamelberg standing with the PhD committee"
-    title: "With the committee"
-
-gallery_conferral:
-  - url: /assets/images/defense/11-diploma-handover.jpg
-    image_path: /assets/images/defense/11-diploma-handover.jpg
-    alt: "Promotor hands the diploma to Kedma Hamelberg"
-    title: "Conferral of the doctorate"
-  - url: /assets/images/defense/12-kedma-hamelberg-standing.jpg
-    image_path: /assets/images/defense/12-kedma-hamelberg-standing.jpg
-    alt: "Kedma Hamelberg standing with paranymphs before the verdict"
-    title: "Before the verdict"
-
-gallery_methodology:
-  - url: /assets/images/defense/21-kedma-hamelberg-phd-dissertation.jpg
-    image_path: /assets/images/defense/21-kedma-hamelberg-phd-dissertation.jpg
-    alt: "Kedma Hamelberg, PhD dissertation book"
-    title: "PhD dissertation book"
-    
-gallery_after:
-  - url: /assets/images/defense/02-signing-wall.jpg
-    image_path: /assets/images/defense/02-signing-wall.jpg
-    alt: "Kedma Hamelberg signing the tradition wall at Agnietenkapel"
-    title: "Signing the wall"
-  - url: /assets/images/defense/03-paranymphs-wall-gabriella-guinlle-daniel-hamelberg-kedma.jpg
-    image_path: /assets/images/defense/03-paranymphs-wall-gabriella-guinlle-daniel-hamelberg-kedma.jpg
-    alt: "Kedma Hamelberg with paranymphs Daniel Hamelberg and Gabriella Guinlle at the tradition wall"
-    title: "With my paranymphs"
-  - url: /assets/images/defense/01-group-photo-kedma-hamelberg.jpg
-    image_path: /assets/images/defense/01-group-photo-kedma-hamelberg.jpg
-    alt: "Group photo with the Kedma Hamelberg defense committee outside Agnietenkapel"
-    title: "The whole cast"
+title: "PhD in Digital Marketing & Applied AI | University of Amsterdam"
+excerpt: "Kedma Hamelberg's 2026 University of Amsterdam PhD, Voices in Action, combined computational social science, human-validated AI classification, causal reasoning, and controlled experiments."
+permalink: /defense/
+classes: "wide kh-defense-page"
+author_profile: false
 ---
 
-**Voices in Action: AI-Powered Insights from Corporate Messaging During Societal Crises**
-Doctoral defense · University of Amsterdam · Amsterdam Business School
-30 June 2026 · Agnietenkapel
+<div class="kh-page">
 
----
+<section class="kh-phd-hero">
+  <div class="kh-phd-hero__copy">
+    <p class="kh-kicker">University of Amsterdam · Amsterdam Business School · 2026</p>
 
-## About the Dutch defense tradition
+    <h1>PhD in Digital Marketing & Applied AI</h1>
 
-Dutch PhD defenses are formal public ceremonies held in centuries-old academic chapels. In general, the candidate is opposed for one hour by a committee of five to eight professors, each questioning the work in turn. Two **paranymphs** stand beside the candidate throughout. The **Beadle** (*Pedel*) opens and closes the ceremony, carrying the university mace, and calls "*Hora est*" precisely one hour in, ending questions mid-sentence if necessary.
+    <p class="kh-phd-title">
+      <em>Voices in Action: AI-Powered Insights from Corporate Messaging During Societal Crises</em>
+    </p>
 
-My defense was held at the **Agnietenkapel**, a 15th-century Gothic chapel and the birthplace of the University of Amsterdam. The Athenaeum Illustre, the university's direct predecessor, opened there on 8 January 1632, when Gerardus Vossius delivered his inaugural lecture. The chapel has hosted UvA's academic ceremonies ever since.
+    <p>
+      The dissertation examined how organizations communicate during
+      high-stakes societal moments—and how those messages shape public
+      engagement and action. It combined large-scale computational analysis
+      with theory-driven human validation and controlled experiments.
+    </p>
 
-## On paranymphs
+    <div class="kh-actions">
+      <a class="kh-btn kh-btn--primary" href="/research/">See current research →</a>
+      <a
+        class="kh-btn kh-btn--ghost"
+        href="mailto:kedma@hamelberg-ai.com?subject=Voices%20in%20Action%20dissertation"
+      >
+        Request dissertation
+      </a>
+    </div>
+  </div>
 
-The word *paranymph* comes from the Ancient Greek *paránymphos* (παράνυμφος), meaning "beside the bride", originally a wedding attendant who accompanied the bridegroom. The tradition entered Dutch academia through the older metaphor of a doctorate as a *de facto* marriage to the university.
+  <div class="kh-phd-hero__image">
+    <img
+      src="/assets/images/defense/04-podium-with-slide.jpg"
+      alt="Kedma Hamelberg presenting her PhD research at the University of Amsterdam Agnietenkapel"
+      loading="eager"
+    >
+  </div>
+</section>
 
-Historically, paranymphs had a substantive role. According to accounts preserved by Dutch universities and academic historians, they could "act as a backup for the doctoral candidate to ask for advice when answering questions, or even take over answering the questions." Folklore also describes them as protective attendants in an era when defenses were more contentious. Today, the role is ceremonial, comparable to a best man or bridesmaid at a wedding, and paranymphs stand beside the candidate as a public gesture of support.
+<section class="kh-phd-proof">
+  <span><strong>UvA</strong> University of Amsterdam</span>
+  <span><strong>ABS</strong> Amsterdam Business School</span>
+  <span><strong>30 Jun 2026</strong> public doctoral defense</span>
+  <span><strong>Method</strong> computational + experimental triangulation</span>
+</section>
 
-At my defense, my paranymphs were my husband, Daniel Hamelberg, and my friend, soon-to-be Dr. Gabriella Guinlle.
+<section class="kh-section kh-phd-overview">
+  <div class="kh-section__heading">
+    <p class="kh-kicker">The research in one minute</p>
+    <h2>Three contexts. One question: whose voice and message design shape what happens next?</h2>
+  </div>
 
----
+  <div class="kh-phd-study-grid">
+    <article>
+      <span>Study 01 · Geopolitical crisis</span>
+      <h3>CEO voice or brand voice?</h3>
+      <p>
+        During the Russia–Ukraine war, CEO and brand accounts behaved as
+        different communication tools. CEO voices generated stronger engagement,
+        while effects on action depended on framing and psychological distance.
+      </p>
+    </article>
 
-## The ceremony
+    <article>
+      <span>Study 02 · DEI</span>
+      <h3>When should brands stand firm?</h3>
+      <p>
+        Public response depended not only on whether brand and citizen positions
+        aligned, but on the direction of that alignment. Pro-DEI alignment was
+        rewarded; anti-DEI alignment could be punished.
+      </p>
+    </article>
 
-{% include gallery id="gallery_ceremony" caption="The Beadle opens the ceremony. My paranymph Gabriella Guinlle addresses the audience at the start of the layman's talk." %}
+    <article>
+      <span>Study 03 · SDGs & multimodal meaning</span>
+      <h3>Can a tiny visual cue change engagement?</h3>
+      <p>
+        When brands communicated about socially distant causes, engagement fell.
+        Symbolic emojis that expanded meaning could narrow that gap; repetitive
+        icons did not produce the same effect.
+      </p>
+    </article>
+  </div>
+</section>
 
-## The layman's talk
+<section class="kh-phd-method">
+  <div>
+    <p class="kh-kicker">Methodological contribution</p>
+    <h2>AI scaled the measurement. Humans anchored the meaning.</h2>
 
-Every UvA defense opens with a **layman's talk**: a short public lecture the candidate gives to explain the dissertation in plain terms to the audience, which typically includes family, friends, and visitors from outside the field. It is introduced by one of the paranymphs, who steps to the microphone two minutes before the hour, before the committee has entered the room. The talk lasts about ten minutes, and must end by twelve minutes past the hour. Only then does the formal opposition begin.
+    <p>
+      Across the empirical chapters, computational methods helped identify and
+      classify more than 250,000 social-media posts against theory-driven
+      rubrics. The categorical decisions were not treated as model truth:
+      the coding logic was developed from theory and validated with human raters.
+    </p>
 
-![Kedma Hamelberg at the podium presenting research on 250,000+ social media posts](/assets/images/defense/04-podium-with-slide.jpg){: .align-center}
+    <p>
+      Field evidence was then triangulated with controlled experiments. This
+      combination of <strong>computational scale, human-validated measurement,
+      and experimental replication</strong> is the methodological signature that
+      connects the dissertation to my current applied-AI work.
+    </p>
+  </div>
 
-**My talk began where the dissertation began: in September 2021.** At the time, it felt like the world was in the final leg of the pandemic as masks were coming off and schools were reopening. It turned out to be the beginning of a sequence of crises, not the end of one. In the years since, my research has sought to understand how corporations communicate in times of crisis.
+  <aside class="kh-phd-method__visual">
+    <img
+      src="/assets/images/defense/21-kedma-hamelberg-phd-dissertation.jpg"
+      alt="Voices in Action PhD dissertation by Kedma Hamelberg"
+      loading="lazy"
+    >
+  </aside>
+</section>
 
-Three contexts shaped the dissertation:
+<section class="kh-phd-validation">
+  <p class="kh-kicker">Academic validation</p>
+  <h2>How the committee described the contribution.</h2>
 
-- **The Russia–Ukraine war (Chapter 2):** should the CEO speak on their own social media account, or the company on the brand's? Findings suggest that CEO and brand voices are two distinct tools for two distinct goals: CEO voices generate more engagement, especially on distant suffering, while brand voices better mobilize citizens to act when the issue hits close to home.
-- **The DEI debate (Chapter 3):** citizens acted strongly, but not always as one might expect. When brand stances and citizen posts aligned pro-DEI, audiences rewarded the brand; when they aligned anti-DEI, audiences punished it. Alignment alone was not enough; the direction of alignment mattered. No neutral move.
-- **Sustainable Development Goals and emojis (Chapter 4):** When brands speak about causes far from what they usually do, engagement drops. Can something as small as an emoji help close that gap? Findings suggest that a symbol emoji that *stretches* meaning (a Pride flag 🏳️‍🌈 next to "Love wins") narrows the gap; an emoji that only *repeats* what the text already says does not.
+  <div class="kh-phd-quote-grid">
+    <blockquote>
+      <p>
+        “I really like the systematic analysis of social media data because
+        it's novel but also that it's combined with your experimental studies
+        to address mechanisms.”
+      </p>
+      <footer>
+        <strong>Prof. dr. Corine Boon</strong><br>
+        University of Amsterdam
+      </footer>
+    </blockquote>
 
-Three different contexts. One underlying question: when the world is in crisis, whose voices and message design actually shape what happens next?
+    <blockquote>
+      <p>
+        “It stands for everything that the business school is standing for.
+        It's very innovative. You took some risk using, at that time, very
+        modern tools like large language models.”
+      </p>
+      <footer>
+        <strong>Prof. dr. Marc Salomon</strong><br>
+        Dean, Amsterdam Business School
+      </footer>
+    </blockquote>
+  </div>
+</section>
 
-## The defense
+<section class="kh-phd-committee">
+  <div class="kh-section__heading">
+    <p class="kh-kicker">Doctoral examination</p>
+    <h2>Defense committee</h2>
+  </div>
 
-{% include gallery id="gallery_defense" caption="One hour of formal opposition. The committee questions the work in sequence." %}
+  <div class="kh-phd-committee-grid">
+    <span><strong>Prof. dr. Ronald Does</strong> · Chair</span>
+    <span><strong>Prof. dr. Marc Salomon</strong> · Amsterdam Business School</span>
+    <span><strong>Prof. dr. Corine Boon</strong> · University of Amsterdam</span>
+    <span><strong>Prof. dr. Raoul Kübler</strong> · ESSEC Business School</span>
+    <span><strong>Prof. dr. Francesca Sotgiu</strong> · Vrije Universiteit Amsterdam</span>
+    <span><strong>Dr. Bernadette van Ewijk</strong> · University of Amsterdam</span>
+  </div>
+</section>
 
-## The opposition
+<section class="kh-phd-gallery">
+  <div class="kh-section__heading">
+    <p class="kh-kicker">Selected images</p>
+    <h2>Public defense at the Agnietenkapel, Amsterdam.</h2>
+  </div>
 
-Each committee member took the floor in turn.
+  <div class="kh-phd-gallery-grid">
+    <figure>
+      <img
+        src="/assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg"
+        alt="Kedma Hamelberg answering questions during her doctoral defense"
+        loading="lazy"
+      >
+      <figcaption>Defending the work</figcaption>
+    </figure>
 
-{% include gallery id="gallery_opposition" caption="The committee members who opposed the work." %}
+    <figure>
+      <img
+        src="/assets/images/defense/07-podium-committee.jpg"
+        alt="Kedma Hamelberg facing the doctoral committee at the Agnietenkapel"
+        loading="lazy"
+      >
+      <figcaption>Formal opposition</figcaption>
+    </figure>
 
-## The committee
+    <figure>
+      <img
+        src="/assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg"
+        alt="Kedma Hamelberg with her PhD committee"
+        loading="lazy"
+      >
+      <figcaption>With the committee</figcaption>
+    </figure>
 
-The defense committee, whose questions elevated the work:
+    <figure>
+      <img
+        src="/assets/images/defense/11-diploma-handover.jpg"
+        alt="Kedma Hamelberg receiving her PhD diploma"
+        loading="lazy"
+      >
+      <figcaption>Conferral of the doctorate</figcaption>
+    </figure>
+  </div>
+</section>
 
-- **Prof. dr. Ronald Does** (voorzitter / chair)
-- **Prof. dr. Marc Salomon** (Dean, Amsterdam Business School)
-- **Prof. dr. Corine Boon** (University of Amsterdam)
-- **Prof. dr. Raoul Kübler** (ESSEC Business School)
-- **Prof. dr. Francesca Sotgiu** (Vrije Universiteit Amsterdam)
-- **Dr. Bernadette van Ewijk** (University of Amsterdam)
+<section class="kh-phd-next">
+  <div>
+    <p class="kh-kicker">From dissertation to current work</p>
+    <h2>The PhD is a foundation for what comes next.</h2>
+    <p>
+      The same principles now extend into multimodal digital behavior,
+      human–AI systems, auditable LLM workflows, decision intelligence,
+      and the AI Empowerment Observatory.
+    </p>
+  </div>
 
-{% include gallery id="gallery_committee" caption="The defense committee in academic gowns." %}
+  <div class="kh-phd-next__links">
+    <a href="/research/">Research programmes →</a>
+    <a href="https://observatory.hamelberg-ai.com/" target="_blank" rel="noopener noreferrer">
+      AI Empowerment Observatory ↗
+    </a>
+    <a
+      href="https://journals.sagepub.com/doi/10.1177/07439156241230910"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Published JPP&amp;M research ↗
+    </a>
+    <a href="/cv/">Current CV →</a>
+  </div>
+</section>
 
-## On the methodology
+<details class="kh-phd-ceremony-note">
+  <summary>About the Dutch public PhD defense format</summary>
+  <p>
+    Dutch doctoral defenses are formal public academic examinations. At the
+    University of Amsterdam, the candidate presents the work publicly and is
+    questioned by the doctoral committee during a timed formal opposition.
+    My defense took place at the historic Agnietenkapel in Amsterdam.
+  </p>
+</details>
 
-*Voices in Action* combined large-scale computational analysis with controlled experiments. Across the three empirical chapters, AI helped identify and classify over 250,000 social media posts against theory-driven rubrics developed with human coders. The AI never made the categorical decisions as those were grounded in theory and validated by human raters. AI scaled the classification to a size that would have taken years to do manually. Each empirical finding from the field data was then triangulated through a controlled experiment.
-
-At the defense, both Prof. dr. Corine Boon and Dean Marc Salomon addressed this methodological choice directly.
-
-> *"I really like the systematic analysis of social media data because it's novel but also that it's combined with your experimental studies to address mechanisms. […] You apply computational social science methods in your dissertation… you demonstrate the value of systematic methodological triangulation."*
-> — **Prof. dr. Corine Boon**
-
-> *"As a dean, I liked your work very much because it stands for everything that the business school is standing for. It's very innovative. You took some risk using, at that time, very modern tools like large language models."*
-> — **Prof. dr. Marc Salomon**, Dean, Amsterdam Business School
-
-The combination of computational scale, human-validated classification, and experimental replication is the methodological signature of the dissertation.
-
-{% include gallery id="gallery_methodology" caption="PhD dissertation book." %}
-
-## The verdict and conferral
-
-After the committee deliberates, the co-promotors confer the doctorate, hand over the diploma, and deliver a *laudatio* (praise speech).
-{% include gallery id="gallery_conferral" caption="The moment of conferral." %}
-
-## Dr. Hamelberg
-
-Tradition holds that new doctors sign a wall in the Agnietenkapel that has held the signatures of PhDs for decades. My paranymphs also signed :)
-
-{% include gallery id="gallery_after" caption="Signing the tradition wall with my paranymphs. Group photo with the committee outside Agnietenkapel." %}
-
----
-
-## Dissertation
-
-**Voices in Action: AI-Powered Insights from Corporate Messaging During Societal Crises**
-Kedma Hamelberg
-Promotores: Dr. Umut Konuş, Prof. dr. Willemijn van Dolen
-Co-supervisor: Prof. dr. Ko de Ruyter
-University of Amsterdam · Amsterdam Business School · 2026
-
-Available on request via [kedma@hamelberg-ai.com](mailto:kedma@hamelberg-ai.com).
-
----
-
-*Photos by [Par-Pa Fotografie](https://par-pa.nl/).*
-
-*Historical notes on the Agnietenkapel draw on [Wikipedia](https://en.wikipedia.org/wiki/Agnietenkapel) and the [University of Amsterdam's own history page](https://www.uva.nl/en/about-the-uva/about-the-university/history/history.html).*
-*Historical notes on the paranymph tradition draw on [Wikipedia](https://en.wikipedia.org/wiki/Paranymph), Erasmus University Rotterdam's PhD ceremony documentation, and accounts collected by [Gildeprint](https://www.gildeprint.nl/en/2024/05/09/role-paranymph-promotion/).*
-
-
+</div>
