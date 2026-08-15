@@ -29,7 +29,7 @@ author_profile: false
 </section>
 
 <section class="kh-proof-bar">
-  <span><strong>4.9/5</strong> students learned a lot</span>
+  <span><strong>4.9/5</strong> Executives, current and future workforce learned a lot</span>
   <span><strong>4.9/5</strong> organisation</span>
   <span><strong>4.9/5</strong> supervision</span>
   <span><strong>Hands-on</strong> business cases & AI workflows</span>
@@ -175,8 +175,8 @@ author_profile: false
       <span>Half / full day</span>
       <h3>Hands-on Applied AI Workshop</h3>
       <p>
-        Participants work with tools, prompts, evaluation rubrics, unstructured
-        data, or their own business cases and leave with a concrete workflow or framework.
+        Participants work with tools, methods, evaluation rubrics, unstructured
+        data, or their own business cases and leave with a concrete workflow from prototype to scale.
       </p>
     </article>
   </div>
@@ -192,17 +192,17 @@ author_profile: false
     </blockquote>
 
     <blockquote>
-      “Really appreciate how the lecturers explain and break down the topic to make it understandable for people who are new to AI.”
+      “Really appreciate how Kedma explains and breaks down the topic to make it understandable for people who are new to AI.”
     </blockquote>
 
     <blockquote>
-      “Very knowledgeable and up-to-date… one of the best lecturers I’ve had in my 4 years at UvA.”
+      “Kedma is very knowledgeable and shares up-to-date insights! One of the best lecturers I’ve had in my 4 years at UvA.”
     </blockquote>
   </div>
 
   <p class="kh-eval-note">
     2025 UvA Applied AI for Marketing evaluation: 4.9/5 for learning,
-    4.9/5 for session organisation, and 4.9/5 for supervision.
+    session organisation, and supervision.
     Response counts vary by item.
   </p>
 </section>
