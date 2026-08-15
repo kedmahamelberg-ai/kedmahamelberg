@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="KH">
+  <rect width="128" height="128" rx="26" fill="#0d223d"/>
+  <circle cx="100" cy="28" r="12" fill="#176f78"/>
+  <text x="64" y="77"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="46"
+        font-weight="800"
+        letter-spacing="-2"
+        fill="#ffffff">KH</text>
+</svg>
