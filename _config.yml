@@ -1,41 +1,33 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 url: "https://kedmahamelberg.com"
 baseurl: ""
 repository: "kedmahamelberg-ai/kedmahamelberg"
 timezone: "Europe/Amsterdam"
 
 title: "Kedma Hamelberg, PhD | Applied AI & Decision Intelligence"
-name: "Kedma Hamelberg"
+masthead_title: "Kedma Hamelberg"
+email: "kedma@hamelberg-ai.com"
 
 description: >-
-  Applied AI researcher and builder working at the intersection of
-  decision intelligence, digital behavior and human impact. I develop
-  auditable AI systems, large-scale computational research and executive
-  learning experiences for business and society.
+  Applied AI researcher and builder working at the intersection of decision
+  intelligence, digital behavior, marketing, and human impact. I develop
+  auditable AI systems, large-scale computational research, and executive
+  learning experiences that turn complex digital data into strategic decisions.
 
-locale: "en-GB"
+logo: "/assets/images/kh-mark.svg"
+og_image: "/assets/images/KedmaHamelberg1092-a.jpg"
 
+twitter_username: "KedmaHamelberg"
 minimal_mistakes_skin: default
+search: true
 
-search: false
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes"
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
 
-logo: "/assets/images/kh-logo.png"
-og_image: "/assets/images/kedma-og.jpg"
+sass:
+  style: compressed
 
 google_analytics: G-0KJEDKBCY5
 
@@ -52,7 +44,7 @@ plugins:
 
 author:
   name: "Kedma Hamelberg"
-  avatar: "/assets/images/kedma-hamelberg.jpg"
+  avatar: "/assets/images/KedmaHamelberg1092-a.jpg"
   bio: "Applied AI · Decision Intelligence · Human Impact"
   links:
     - label: "Email"
@@ -72,13 +64,20 @@ footer:
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=M8TAlNwAAAAJ&hl=nl"
-    - label: "Publications"
-      icon: "fas fa-fw fa-file-alt"
-      url: "https://journals.sagepub.com/doi/10.1177/07439156241230910?int.sj-full-text.similar-articles.3"
+      url: "https://scholar.google.com/citations?user=M8TAlNwAAAAJ"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kedma-hamelberg/"
+    - label: "AI Observatory"
+      icon: "fas fa-fw fa-globe"
+      url: "https://observatory.hamelberg-ai.com/"
+
+social:
+  name: "Kedma Hamelberg"
+  links:
+    - "https://www.linkedin.com/in/kedma-hamelberg/"
+    - "https://scholar.google.com/citations?user=M8TAlNwAAAAJ"
+    - "https://observatory.hamelberg-ai.com/"
 
 defaults:
   - scope:
@@ -86,7 +85,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   - scope:
       path: ""
       type: "scss"
@@ -100,12 +99,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
-
-
-
-
-
-
-
