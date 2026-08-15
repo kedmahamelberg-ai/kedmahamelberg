@@ -170,3 +170,54 @@ body{color:var(--kh-ink);background:var(--kh-paper)}
   .kh-observatory{margin:3rem 0;padding:2rem 1.2rem}
   .kh-globe-orbit--2{width:230px}
 }
+
+
+/* Brand v2 additions */
+
+.kh-topic-grid--sessions article {
+  min-height: 285px;
+}
+
+.kh-topic-grid--sessions span {
+  color: var(--kh-teal);
+  font-size: .62rem;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.kh-topic-grid--sessions p {
+  font-size: .8rem;
+  line-height: 1.58;
+}
+
+.kh-eval-note {
+  max-width: 780px;
+  margin-top: 1rem;
+  color: var(--kh-muted);
+  font-size: .7rem;
+  line-height: 1.5;
+}
+
+.kh-cv-hero {
+  background:
+    radial-gradient(circle at 90% 20%, rgba(23,111,120,.12), transparent 30%);
+}
+
+.kh-cv-intro {
+  max-width: 800px;
+  color: var(--kh-muted);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+@media (max-width: 900px) {
+  .kh-topic-grid--sessions {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .kh-topic-grid--sessions {
+    grid-template-columns: 1fr;
+  }
+}
