@@ -14,29 +14,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-url: "https://hamelberg-ai.com"
+url: "https://kedmahamelberg.com"
 baseurl: ""
 repository: "kedmahamelberg-ai/kedmahamelberg"
 timezone: "Europe/Amsterdam"
 
-title: "Kedma Hamelberg | AI Research & Strategic Analytics"
-email: "kedma@hamelberg-ai.com"
+title: "Kedma Hamelberg, PhD | Applied AI & Decision Intelligence"
+name: "Kedma Hamelberg"
+
 description: >-
-  I’m Kedma Hamelberg, an applied AI scientist focused on marketing, business, and societal impact. My research integrates natural language processing, machine learning, deep learning, and AI agents with predictive and causal inference to analyze how brands, CEOs, and citizens shape public discourse during societal shifts from war to AI. My work has been published in the Journal of Public Policy & Marketing and presented at EMAC and AMS. I bring this expertise into the classroom, where I teach applied AI for marketing and digital strategy to diverse master’s cohorts in business administration. If you’re seeking research-driven insights or AI-powered education partnerships, let’s connect (kedma@hamelberg-ai.com).
-twitter_username: "KedmaHamelberg"
+  Applied AI researcher and builder working at the intersection of
+  decision intelligence, digital behavior and human impact. I develop
+  auditable AI systems, large-scale computational research and executive
+  learning experiences for business and society.
+
+locale: "en-GB"
+
 minimal_mistakes_skin: default
-search: true
 
-markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
-permalink: /:categories/:title/
-paginate: 5
-paginate_path: /page:num/
-timezone:
+search: false
 
-sass:
-  style: compressed
-
+logo: "/assets/images/kh-logo.png"
+og_image: "/assets/images/kedma-og.jpg"
 
 google_analytics: G-0KJEDKBCY5
 
@@ -53,18 +52,21 @@ plugins:
 
 author:
   name: "Kedma Hamelberg"
-  avatar: "/assets/images/Kedma Hamelberg1092-a.jpg"
-  bio: "kedma@hamelberg-ai.com"
+  avatar: "/assets/images/kedma-hamelberg.jpg"
+  bio: "Applied AI · Decision Intelligence · Human Impact"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:kedma@hamelberg-ai.com"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=M8TAlNwAAAAJ&hl=nl"
-    - label: "Publications"
-      icon: "fas fa-fw fa-file-alt"
-      url: "https://journals.sagepub.com/doi/10.1177/07439156241230910?int.sj-full-text.similar-articles.3"
+      url: "https://scholar.google.com/citations?user=M8TAlNwAAAAJ"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kedma-hamelberg/"
+    - label: "AI Empowerment Observatory"
+      icon: "fas fa-fw fa-globe"
+      url: "https://observatory.hamelberg-ai.com/"
 
 footer:
   links:
