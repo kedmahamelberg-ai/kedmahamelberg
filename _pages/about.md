@@ -97,6 +97,60 @@ author_profile: false
   </div>
 </section>
 
+
+<section class="kh-proof-in-action">
+  <div class="kh-section__heading">
+    <p class="kh-kicker">Research in practice</p>
+    <h2>Research. Teaching. Building.</h2>
+    <p class="kh-about-smallnote">
+      Different settings, same principle: rigorous evidence should become
+      something people can use.
+    </p>
+  </div>
+
+  <div class="kh-proof-photo-grid">
+    <figure>
+      <img
+        src="/assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg"
+        alt="Kedma Hamelberg defending her PhD research at the University of Amsterdam"
+        loading="lazy"
+      >
+      <figcaption>
+        <span>Research</span>
+        <strong>Defending the work</strong>
+        <small>University of Amsterdam · 2026</small>
+      </figcaption>
+    </figure>
+
+    <figure>
+      <img
+        src="/assets/images/kedma_lecturer.jpg"
+        alt="Kedma Hamelberg with Digital Marketing and Analytics students at the University of Amsterdam"
+        loading="lazy"
+      >
+      <figcaption>
+        <span>Teaching</span>
+        <strong>Turning methods into learning</strong>
+        <small>MSc & executive education</small>
+      </figcaption>
+    </figure>
+
+    <figure>
+      <img
+        src="/assets/images/kedma award.jpeg"
+        alt="Kedma Hamelberg receiving Best Lecturer recognition"
+        loading="lazy"
+      >
+      <figcaption>
+        <span>Recognition</span>
+        <strong>Best Lecturer</strong>
+        <small>Executive Digital Business Track</small>
+      </figcaption>
+    </figure>
+  </div>
+</section>
+
+
 <section class="kh-about-principles">
   <p class="kh-kicker">What connects my work</p>
   <h2>Three principles I keep coming back to.</h2>
