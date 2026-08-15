@@ -1,19 +1,16 @@
 main:
-  - title: "Home"
-    url: /
-
   - title: "Research"
     url: /research/
 
   - title: "AI Observatory"
-    url: https://observatory.hamelberg-ai.com
-    description: "Explore global AI empowerment narratives"
+    url: https://observatory.hamelberg-ai.com/
+    target: _blank
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Talks & Training"
+    url: /talks/
 
-  - title: "Defense"
-    url: /defense/
+  - title: "About"
+    url: /about/
 
   - title: "CV"
     url: /cv/
