@@ -25,7 +25,7 @@ author_profile: false
     </div>
 
     <div class="kh-proof-strip" aria-label="Selected proof points">
-      <span><strong>13M+</strong> digital posts analysed</span>
+      <span><strong>30M+</strong> social-media posts across projects</span>
       <span><strong>JPP&amp;M</strong> peer-reviewed research</span>
       <span><strong>4.9/5</strong> Applied AI teaching</span>
       <span><strong>AIEO</strong> creator & builder</span>
@@ -56,8 +56,9 @@ author_profile: false
       <span class="kh-card__number">01</span>
       <h3>AI & Decision Systems</h3>
       <p>
-        Auditable AI workflows for classification, behavioral analysis,
-        prediction, causal measurement, and decision support.
+        Unstructured text, image, audio, and video turned into auditable
+        early signals for behavioral analysis, prediction, causal measurement,
+        and decision support.
       </p>
       <a href="/research/">See methods & projects →</a>
     </article>
@@ -66,8 +67,9 @@ author_profile: false
       <span class="kh-card__number">02</span>
       <h3>Research</h3>
       <p>
-        Computational research on digital communication, public behavior,
-        AI adoption, human agency, and organizational decision-making.
+        Computational research using multimodal digital behavior as a signal
+        of narrative and market change—often before it becomes visible in
+        surveys, CRM, sales, or other structured data.
       </p>
       <a href="/research/">Explore the research →</a>
     </article>
@@ -76,8 +78,9 @@ author_profile: false
       <span class="kh-card__number">03</span>
       <h3>Talks & Executive Learning</h3>
       <p>
-        Practical sessions translating AI, analytics, governance, and
-        responsible deployment into clear decisions for teams and classrooms.
+        Tailored talks and hands-on workshops that translate AI literacy,
+        analytics, governance, and responsible deployment into your
+        organisation’s real decisions.
       </p>
       <a href="/talks/">View talks & training →</a>
     </article>
@@ -102,7 +105,7 @@ author_profile: false
       <div class="kh-program-meta">
         <div>
           <small>Data</small>
-          <strong>13M+ social posts · experiments · multimodal content</strong>
+          <strong>30M+ social-media posts across projects · text · image · audio · video</strong>
         </div>
         <div>
           <small>Methods</small>

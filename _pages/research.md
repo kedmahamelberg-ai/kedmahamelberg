@@ -26,8 +26,10 @@ author_profile: false
     <h2>How do organizations and people communicate when the stakes are high?</h2>
 
     <p>
-      This programme studies how brands, CEOs, institutions, and consumers
-      communicate across crises, controversial issues, sustainability,
+      This programme treats unstructured digital behavior—text, image, audio,
+      and video—as an early signal of how narratives, preferences, and public
+      responses are changing. It studies brands, CEOs, institutions, and
+      consumers across crises, controversial issues, sustainability,
       inclusion, and AI-mediated environments.
     </p>
 
@@ -45,14 +47,15 @@ author_profile: false
         <h3>Methods</h3>
         <ul>
           <li>NLP, transformers, multimodal classification, LLM-assisted coding</li>
-          <li>Large-scale social-media and platform data</li>
+          <li>30M+ social-media posts across projects plus multimodal text, image, audio, and video data</li>
+          <li>Early-signal analysis connecting unstructured behavior to later structured outcomes</li>
           <li>Experiments, panel models, prediction, and causal inference</li>
         </ul>
       </div>
     </div>
 
     <div class="kh-evidence-row">
-      <span><strong>13M+</strong> social posts analysed</span>
+      <span><strong>30M+</strong> social-media posts across projects</span>
       <span><strong>236k+</strong> war-related tweets in published work</span>
       <span><strong>JPP&amp;M</strong> peer-reviewed publication</span>
     </div>

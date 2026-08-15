@@ -22,8 +22,8 @@ author_profile: false
 </section>
 
 <section class="kh-proof-bar">
-  <span><strong>4.9/5</strong> Applied AI course rating</span>
-  <span><strong>Best Lecturer</strong> Executive Digital Business Track</span>
+  <span><strong>4.9/5</strong> learned a lot</span>
+  <span><strong>4.9/5</strong> organisation & supervision</span>
   <span><strong>MSc + Executive</strong> audiences</span>
   <span><strong>Hands-on</strong> Python, LLMs & analytics</span>
 </section>
@@ -92,7 +92,7 @@ author_profile: false
   <p class="kh-kicker">Student feedback</p>
   <div class="kh-quote-grid">
     <blockquote>“Thanks to your teaching style, I had fun while learning AI.”</blockquote>
-    <blockquote>“A true gem—the best tutorial teacher I had.”</blockquote>
+    <blockquote>“Really appreciate how the lecturers explain and break down the topic to make it understandable for people who are new to AI.”</blockquote>
     <blockquote>“She creates a community—her feedback goes beyond the classroom.”</blockquote>
   </div>
 </section>
