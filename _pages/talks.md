@@ -13,7 +13,7 @@ author_profile: false
   <h1>Make AI relevant to the decisions your people actually make.</h1>
   <p>
     Every session can be adapted to your sector, audience, data, and strategic
-    questions—from an inspirational keynote to a hands-on workshop built around
+    questions, from an inspirational keynote to a hands-on workshop built around
     your own use cases.
   </p>
 
@@ -74,7 +74,7 @@ author_profile: false
 <section id="themes" class="kh-section">
   <div class="kh-section__heading">
     <p class="kh-kicker">Session ideas</p>
-    <h2>Six starting points—each can become a keynote, briefing, or workshop.</h2>
+    <h2>Six starting points for keynotes, briefings, and workshops.</h2>
   </div>
 
   <div class="kh-topic-grid kh-topic-grid--sessions">
@@ -129,7 +129,7 @@ author_profile: false
         Separate technical capability, adoption, business value, and human
         impact so AI initiatives can be judged by the decisions they improve.
         Teams leave with a simple framework for deciding where AI creates
-        advantage—and where it merely creates activity.
+        advantage, and where it merely creates activity.
       </p>
     </article>
 
@@ -149,12 +149,12 @@ author_profile: false
 <section class="kh-section kh-section--soft">
   <div class="kh-section__heading">
     <p class="kh-kicker">Formats</p>
-    <h2>Choose the depth—not a fixed package.</h2>
+    <h2>Choose the depth that fits your needs.</h2>
   </div>
 
   <div class="kh-offer-grid kh-offer-grid--talks">
     <article>
-      <span>30–60 min</span>
+      <span>30 to 60 min</span>
       <h3>Keynote / Executive Briefing</h3>
       <p>
         High-energy and evidence-based, with a strong narrative, live audience
@@ -163,7 +163,7 @@ author_profile: false
     </article>
 
     <article>
-      <span>90 min–half day</span>
+      <span>90 min to half a day</span>
       <h3>Interactive Deep Dive</h3>
       <p>
         More discussion, examples, group exercises, and time to connect the topic
@@ -184,7 +184,7 @@ author_profile: false
 
 <section class="kh-testimonial-section">
   <p class="kh-kicker">Teaching evidence</p>
-  <h2>Practical, current, and understandable—even for people new to AI.</h2>
+  <h2>Practical, current, and understandable, even for people new to AI.</h2>
 
   <div class="kh-quote-grid">
     <blockquote>

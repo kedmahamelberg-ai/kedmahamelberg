@@ -1,0 +1,5 @@
+.kh-analytics-banner{position:fixed;z-index:9999;bottom:18px;left:50%;transform:translateX(-50%);width:880px;max-width:calc(100% - 32px);box-sizing:border-box;background:#fff;color:#142b3e;border:1px solid #c8d3dc;box-shadow:0 4px 24px #142b3e20;border-radius:5px;padding:18px 22px;display:flex;align-items:center;gap:22px;font:16px/1.5 Arial,Helvetica,sans-serif}
+.kh-analytics-banner p{margin:0;flex:1}.kh-analytics-banner a{color:#086b64;text-decoration:underline}.kh-analytics-banner>div{display:flex;gap:10px;flex-wrap:wrap}
+.kh-analytics-banner button,.kh-analytics-settings{font:600 15px/1.4 Arial,Helvetica,sans-serif;border:1px solid #142b3e;border-radius:4px;padding:11px 15px;min-height:44px;background:#142b3e;color:#fff;cursor:pointer}
+.kh-analytics-banner .kh-analytics-no{background:#fff;color:#142b3e}.kh-analytics-banner :focus-visible,.kh-analytics-settings:focus-visible{outline:3px solid #08796f;outline-offset:3px}
+@media(max-width:700px){.kh-analytics-banner{flex-wrap:wrap;gap:14px;padding:18px}.kh-analytics-banner p{flex-basis:100%}}

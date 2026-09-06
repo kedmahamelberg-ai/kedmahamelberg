@@ -21,7 +21,7 @@ author_profile: false
 
     <p>
       The dissertation examined how organizations communicate during
-      high-stakes societal moments—and how those messages shape public
+      high-stakes societal moments, and how those messages shape public
       engagement and action. It combined large-scale computational analysis
       with theory-driven human validation and controlled experiments.
     </p>
@@ -64,7 +64,7 @@ author_profile: false
       <span>Study 01 · Geopolitical crisis</span>
       <h3>CEO voice or brand voice?</h3>
       <p>
-        During the Russia–Ukraine war, CEO and brand accounts behaved as
+        During the Russia-Ukraine war, CEO and brand accounts behaved as
         different communication tools. CEO voices generated stronger engagement,
         while effects on action depended on framing and psychological distance.
       </p>
@@ -219,7 +219,7 @@ author_profile: false
     <h2>The PhD is a foundation for what comes next.</h2>
     <p>
       The same principles now extend into multimodal digital behavior,
-      human–AI systems, auditable LLM workflows, decision intelligence,
+      human-AI systems, auditable LLM workflows, decision intelligence,
       and the AI Empowerment Observatory.
     </p>
   </div>

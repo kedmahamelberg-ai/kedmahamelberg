@@ -6,6 +6,9 @@ main:
     url: https://observatory.hamelberg-ai.com/
     target: _blank
 
+  - title: "The Brief"
+    url: https://kedmahamelberg-ai.github.io/aieo-brief/
+
   - title: "Talks & Training"
     url: /talks/
 

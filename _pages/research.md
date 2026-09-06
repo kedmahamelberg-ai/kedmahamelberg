@@ -26,8 +26,8 @@ author_profile: false
     <h2>How do organizations and people communicate when the stakes are high?</h2>
 
     <p>
-      This programme treats unstructured digital behavior—text, image, audio,
-      and video—as an early signal of how narratives, preferences, and public
+      This programme treats unstructured digital behavior, including text, image, audio,
+      and video, as an early signal of how narratives, preferences, and public
       responses are changing. It studies brands, CEOs, institutions, and
       consumers across crises, controversial issues, sustainability,
       inclusion, and AI-mediated environments.
@@ -82,11 +82,11 @@ author_profile: false
   <div class="kh-research-program__number">02</div>
 
   <div>
-    <p class="kh-kicker">Human–AI Empowerment & Decision Systems</p>
-    <h2>When does AI expand capability—and when does it transfer power away from people?</h2>
+    <p class="kh-kicker">Human-AI Empowerment & Decision Systems</p>
+    <h2>When does AI expand capability, and when does it transfer power away from people?</h2>
 
     <p>
-      This programme examines human–AI relationships through capability,
+      This programme examines human-AI relationships through capability,
       creativity, autonomy, control, rights, protection, and public influence.
       It also develops auditable AI workflows for turning noisy digital evidence
       into structured decision signals.

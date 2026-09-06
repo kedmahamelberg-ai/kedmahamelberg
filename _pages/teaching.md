@@ -93,7 +93,7 @@ author_profile: false
   <div class="kh-quote-grid">
     <blockquote>“Thanks to your teaching style, I had fun while learning AI.”</blockquote>
     <blockquote>“Really appreciate how the lecturers explain and break down the topic to make it understandable for people who are new to AI.”</blockquote>
-    <blockquote>“She creates a community—her feedback goes beyond the classroom.”</blockquote>
+    <blockquote>“She creates a community. Her feedback goes beyond the classroom.”</blockquote>
   </div>
 </section>
 

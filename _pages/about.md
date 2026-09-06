@@ -20,7 +20,7 @@ author_profile: false
     </p>
 
     <p>
-      My route into AI was not a straight line—and that is an advantage in the
+      My route into AI was not a straight line, and that is an advantage in the
       work I do now. I started in product development, built and ran a
       direct-to-consumer business, moved through market insights and digital
       marketing, and then into computational research and applied AI.
@@ -29,7 +29,7 @@ author_profile: false
     <p>
       Today I work across <strong>AI, decision intelligence, digital behavior,
       and human impact</strong>. I am especially interested in what unstructured
-      signals—text, image, audio, and video—can reveal before changes become
+      signals such as text, image, audio, and video can reveal before changes become
       visible in surveys, CRM, sales, or other structured data.
     </p>
 
@@ -220,9 +220,9 @@ author_profile: false
     </p>
 
     <p>
-      That combination—<strong>computational scale, human validation, and
-      experimental triangulation</strong>—became a methodological signature
-      I now carry into broader human–AI systems research and applied work.
+      That combination of <strong>computational scale, human validation, and
+      experimental triangulation</strong> became a methodological signature
+      I now carry into broader human-AI systems research and applied work.
     </p>
 
     <a href="/defense/">Explore the PhD research →</a>
@@ -236,7 +236,7 @@ author_profile: false
   <div class="kh-now-grid">
     <article>
       <span>Research</span>
-      <h3>Human–AI systems & digital behavior</h3>
+      <h3>Human-AI systems & digital behavior</h3>
       <p>
         I study how AI changes capability, communication, relationships,
         decision authority, and public narratives using large-scale digital evidence.

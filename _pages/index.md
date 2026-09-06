@@ -16,7 +16,7 @@ author_profile: false
 
     <p class="kh-hero__lead">
       I build auditable AI systems and research that turn complex digital
-      behavior into strategic decisions—for business, communication, and society.
+      behavior into strategic decisions for business, communication, and society.
     </p>
 
     <div class="kh-actions">
@@ -68,7 +68,7 @@ author_profile: false
       <h3>Research</h3>
       <p>
         Computational research using multimodal digital behavior as a signal
-        of narrative and market change—often before it becomes visible in
+        of narrative and market change, often before it becomes visible in
         surveys, CRM, sales, or other structured data.
       </p>
       <a href="/research/">Explore the research →</a>
@@ -99,7 +99,7 @@ author_profile: false
       <h3>AI, Communication & Digital Behavior</h3>
       <p class="kh-program-question">
         How do organizations, brands, and people communicate in high-stakes
-        digital environments—and what makes audiences act?
+        digital environments, and what makes audiences act?
       </p>
 
       <div class="kh-program-meta">
@@ -118,9 +118,9 @@ author_profile: false
 
     <article class="kh-program-card">
       <span>Programme 02</span>
-      <h3>Human–AI Empowerment & Decision Systems</h3>
+      <h3>Human-AI Empowerment & Decision Systems</h3>
       <p class="kh-program-question">
-        When does AI expand human capability—and when does it transfer autonomy,
+        When does AI expand human capability, and when does it transfer autonomy,
         control, rights, or decision authority?
       </p>
 
@@ -182,6 +182,19 @@ author_profile: false
   </div>
 </section>
 
+<section class="kh-section kh-brief-intro" aria-labelledby="brief-heading">
+  <div class="kh-section__heading">
+    <p class="kh-kicker">Read the stories</p>
+    <h2 id="brief-heading">The Brief</h2>
+    <p>AI news from five markets, explained in plain language. Explore the original
+      sources, read recent research, and take a daily pause with art, words and music.</p>
+  </div>
+  <div class="kh-actions">
+    <a class="kh-btn kh-btn--primary" href="https://kedmahamelberg-ai.github.io/aieo-brief/">Read the Brief ↗</a>
+    <a class="kh-btn kh-btn--outline" href="https://observatory.hamelberg-ai.com/">Explore the weekly evidence ↗</a>
+  </div>
+</section>
+
 <section class="kh-section">
   <div class="kh-section__heading">
     <p class="kh-kicker">Talks · teaching · executive learning</p>
@@ -190,11 +203,11 @@ author_profile: false
 
   <div class="kh-offer-grid">
     <article>
-      <span>45–60 min</span>
+      <span>45 to 60 min</span>
       <h3>Executive AI Briefing</h3>
       <p>
         A clear, evidence-based briefing on AI capability, adoption,
-        governance, and human control—tailored to your sector.
+        governance, and human control, tailored to your sector.
       </p>
     </article>
 
@@ -239,7 +252,7 @@ author_profile: false
       <span>Peer-reviewed research</span>
       <h3>Finding the Right Voice</h3>
       <p>
-        CEO and brand communication during the Russia–Ukraine war, linking
+        CEO and brand communication during the Russia-Ukraine war, linking
         large-scale digital behavior with controlled experimental evidence.
       </p>
       <a

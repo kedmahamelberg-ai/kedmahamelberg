@@ -13,7 +13,7 @@ author_profile: false
   <h1>Research, AI systems, decision intelligence, and executive learning.</h1>
   <p>
     Download the current public CV, updated for 2026. It reflects my completed
-    PhD, current Human–AI Systems research, AI Empowerment Observatory work,
+    PhD, current Human-AI Systems research, AI Empowerment Observatory work,
     and broader applied-AI and insights portfolio.
   </p>
 
@@ -51,7 +51,7 @@ author_profile: false
 
   <p class="kh-cv-intro">
     My work uses multimodal unstructured data to detect shifts in narratives,
-    behavior, preferences, and human–AI relationships—often before those changes
+    behavior, preferences, and human-AI relationships, often before those changes
     become visible in structured indicators such as surveys, CRM, sales, or
     financial data.
   </p>
