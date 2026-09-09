@@ -1,0 +1,88 @@
+{% unless aieo_adsense_included %}
+{% assign aieo_adsense_included = true %}
+{% unless page.url contains '/privacy' or page.url contains '/404' or page.adsense == false %}
+<!-- AIEO AdSense connection v1 -->
+<meta name="google-adsense-account" content="ca-pub-5170234738371400">
+<script>
+(function () {
+  'use strict';
+  if (window.__aieoPublisherConnection) return;
+  window.__aieoPublisherConnection = true;
+  window.adsbygoogle = window.adsbygoogle || [];
+  window.adsbygoogle.pauseAdRequests = 1;
+  window.googlefc = window.googlefc || {};
+  window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+  var tcfKnown = false, tcfAllowed = false, modeKnown = false, modeAllowed = false;
+  var modeDenied = false, usDenied = false, running = false;
+  function apply() {
+    var allow = !modeDenied && !usDenied && (tcfKnown ? tcfAllowed : (modeKnown && modeAllowed));
+    window.adsbygoogle.pauseAdRequests = allow ? 0 : 1;
+    if (running && !allow) { running = false; window.location.reload(); }
+    else running = allow;
+  }
+  function readMode() {
+    try {
+      if (typeof window.googlefc.getGoogleConsentModeValues !== 'function') return;
+      var values = window.googlefc.getGoogleConsentModeValues();
+      var keys = ['adStoragePurposeConsentStatus', 'adUserDataPurposeConsentStatus', 'adPersonalizationPurposeConsentStatus'];
+      modeKnown = true;
+      modeAllowed = keys.every(function (k) { return values && (values[k] === 1 || values[k] === 3); });
+      modeDenied = keys.some(function (k) { return values && values[k] === 2; });
+    } catch (_) { modeKnown = true; modeAllowed = false; modeDenied = true; }
+    apply();
+  }
+  window.googlefc.callbackQueue.push({CONSENT_MODE_DATA_READY: readMode});
+  window.googlefc.callbackQueue.push({INITIAL_US_STATES_OPT_OUT_DATA_READY: function () {
+    try {
+      var api = window.googlefc.usstatesoptout;
+      if (api && typeof api.getInitialUsStatesOptOutStatus === 'function') {
+        var state = api.getInitialUsStatesOptOutStatus();
+        usDenied = state !== 1 && state !== 2;
+        apply();
+      }
+    } catch (_) { usDenied = true; apply(); }
+  }});
+  window.googlefc.callbackQueue.push({CONSENT_API_READY: function () {
+    if (typeof window.__tcfapi === 'function') {
+      window.__tcfapi('addEventListener', 2, function (data, ok) {
+        if (!ok || !data || data.cmpStatus === 'error') {
+          tcfKnown = true; tcfAllowed = false; apply(); return;
+        }
+        if (data.eventStatus === 'cmpuishown') {
+          window.adsbygoogle.pauseAdRequests = 1; return;
+        }
+        if (['tcloaded', 'useractioncomplete'].indexOf(data.eventStatus) < 0) return;
+        var purposes = data.purpose && data.purpose.consents;
+        var vendors = data.vendor && data.vendor.consents;
+        tcfKnown = typeof data.gdprApplies === 'boolean';
+        // Conservative opt-in. Google still evaluates all remaining TCF/GPP restrictions.
+        tcfAllowed = data.gdprApplies === false || !!(data.gdprApplies === true &&
+          data.tcString && purposes && purposes[1] && purposes[3] && purposes[4] && vendors && vendors[755]);
+        apply();
+      });
+    }
+    function privacyLink() {
+      if (typeof window.googlefc.showRevocationMessage !== 'function') return;
+      var footer = document.querySelector('footer');
+      if (!footer || document.getElementById('aieo-ad-privacy')) return;
+      var button = document.createElement('button');
+      button.type = 'button'; button.id = 'aieo-ad-privacy';
+      button.textContent = 'Advertising privacy choices';
+      button.addEventListener('click', function () {
+        window.adsbygoogle.pauseAdRequests = 1;
+        window.googlefc.callbackQueue.push({CONSENT_API_READY: function () {
+          window.googlefc.showRevocationMessage();
+        }});
+      });
+      footer.appendChild(button);
+    }
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', privacyLink, {once:true});
+    else privacyLink();
+  }});
+})();
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5170234738371400"
+     crossorigin="anonymous"></script>
+<!-- /AIEO AdSense connection v1 -->
+{% endunless %}
+{% endunless %}
