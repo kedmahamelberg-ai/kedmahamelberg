@@ -22,7 +22,7 @@ Choosing **No thanks** stops analytics. If analytics was already running,
 the page reloads to apply your choice and removes its analytics cookies.
 
 The [AI Empowerment Observatory](https://observatory.hamelberg-ai.com/privacy/)
-and [the Brief](https://kedmahamelberg-ai.github.io/aieo-brief/privacy/)
+and [the Brief](https://brief.hamelberg-ai.com/privacy/)
 have their own privacy information and choices.
 
 If you email me, I use the information you send to respond to your enquiry.

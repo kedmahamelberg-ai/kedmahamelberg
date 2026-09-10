@@ -190,7 +190,7 @@ author_profile: false
       sources, read recent research, and take a daily pause with art, words and music.</p>
   </div>
   <div class="kh-actions">
-    <a class="kh-btn kh-btn--primary" href="https://kedmahamelberg-ai.github.io/aieo-brief/">Read the Brief ↗</a>
+    <a class="kh-btn kh-btn--primary" href="https://brief.hamelberg-ai.com/">Read the Brief ↗</a>
     <a class="kh-btn kh-btn--outline" href="https://observatory.hamelberg-ai.com/">Explore the weekly evidence ↗</a>
   </div>
 </section>

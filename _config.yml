@@ -64,7 +64,7 @@ author:
       url: "https://observatory.hamelberg-ai.com/"
     - label: "The Brief"
       icon: "fas fa-fw fa-newspaper"
-      url: "https://kedmahamelberg-ai.github.io/aieo-brief/"
+      url: "https://brief.hamelberg-ai.com/"
 
 footer:
   links:
@@ -79,7 +79,7 @@ footer:
       url: "https://observatory.hamelberg-ai.com/"
     - label: "The Brief"
       icon: "fas fa-fw fa-newspaper"
-      url: "https://kedmahamelberg-ai.github.io/aieo-brief/"
+      url: "https://brief.hamelberg-ai.com/"
     - label: "Privacy"
       icon: "fas fa-fw fa-shield-alt"
       url: "/privacy/"
