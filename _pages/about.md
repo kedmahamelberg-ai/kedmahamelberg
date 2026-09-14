@@ -1,10 +1,12 @@
 ---
 layout: single
 title: "About Kedma Hamelberg, PhD"
-excerpt: "Kedma Hamelberg is an applied AI researcher and builder working across decision intelligence, multimodal digital behavior, marketing, and human impact."
 permalink: /about/
 classes: "wide kh-about-page"
 author_profile: false
+excerpt: "Meet Kedma Hamelberg, PhD, an applied AI researcher, builder and educator, and explore her work on the AI Empowerment Observatory and The Brief."
+header:
+  og_image: "/assets/images/KedmaHamelberg1092-a.jpg"
 ---
 
 <div class="kh-page">
@@ -32,6 +34,8 @@ author_profile: false
       signals such as text, image, audio, and video can reveal before changes become
       visible in surveys, CRM, sales, or other structured data.
     </p>
+
+    <p>I created the <a href="https://observatory.hamelberg-ai.com/">AI Empowerment Observatory</a> and <a href="https://brief.hamelberg-ai.com/">The Brief</a> to make research on AI and human empowerment easier to explore. <a href="/photos/">See photographs of my research and teaching.</a></p>
 
     <div class="kh-actions">
       <a class="kh-btn kh-btn--primary" href="/research/">Explore my research →</a>

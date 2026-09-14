@@ -1,10 +1,12 @@
 ---
 layout: single
 title: "PhD in Digital Marketing & Applied AI | University of Amsterdam"
-excerpt: "Kedma Hamelberg's 2026 University of Amsterdam PhD, Voices in Action, combined computational social science, human-validated AI classification, causal reasoning, and controlled experiments."
 permalink: /defense/
 classes: "wide kh-defense-page"
 author_profile: false
+excerpt: "Kedma Hamelberg’s PhD defense at the University of Amsterdam: Voices in Action, research and photographs."
+header:
+  og_image: "/assets/images/defense/04-podium-with-slide.jpg"
 ---
 
 <div class="kh-page">

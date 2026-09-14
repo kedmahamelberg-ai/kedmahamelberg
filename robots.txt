@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kedmahamelberg.com/sitemap.xml
+Sitemap: https://kedmahamelberg.com/image-sitemap.xml

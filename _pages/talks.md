@@ -4,6 +4,9 @@ title: "Talks & Training"
 permalink: /talks/
 classes: wide
 author_profile: false
+excerpt: "Talks, workshops and executive briefings by Kedma Hamelberg, PhD, on applied AI, decision intelligence and human impact."
+header:
+  og_image: "/assets/images/KedmaHamelberg1092-a.jpg"
 ---
 
 <div class="kh-page">

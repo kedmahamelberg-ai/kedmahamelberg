@@ -4,6 +4,9 @@ title: "Research"
 permalink: /research/
 classes: wide
 author_profile: false
+excerpt: "Research by Kedma Hamelberg, PhD, in applied AI, digital behavior, marketing and decision intelligence, including the AI Empowerment Observatory."
+header:
+  og_image: "/assets/images/KedmaHamelberg1092-a.jpg"
 ---
 
 <div class="kh-page">

@@ -1,9 +1,12 @@
 ---
 layout: single
-title: "Kedma Hamelberg"
+title: "Kedma Hamelberg, PhD | Applied AI & Decision Intelligence"
 permalink: /
 classes: wide
 author_profile: false
+excerpt: "Kedma Hamelberg, PhD — Applied AI researcher and creator of the AI Empowerment Observatory and The Brief. Explore her research, teaching and projects."
+header:
+  og_image: "/assets/images/KedmaHamelberg1092-a.jpg"
 ---
 
 <div class="kh-home">

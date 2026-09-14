@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 classes: wide
 author_profile: false
+excerpt: "Teaching and executive education by Kedma Hamelberg, PhD, in applied AI, digital marketing and analytics."
+header:
+  og_image: "/assets/images/kedma_lecturer.jpg"
 ---
 
 <div class="kh-page">

@@ -3,7 +3,7 @@ baseurl: ""
 repository: "kedmahamelberg-ai/kedmahamelberg"
 timezone: "Europe/Amsterdam"
 
-title: "Kedma Hamelberg, PhD | Applied AI & Decision Intelligence"
+title: "Kedma Hamelberg, PhD"
 masthead_title: "Kedma Hamelberg"
 email: "kedma@hamelberg-ai.com"
 
@@ -89,7 +89,6 @@ social:
   links:
     - "https://www.linkedin.com/in/kedma-hamelberg/"
     - "https://scholar.google.com/citations?user=M8TAlNwAAAAJ"
-    - "https://observatory.hamelberg-ai.com/"
 
 defaults:
   - scope:
@@ -111,3 +110,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+og_image_alt: "Kedma Hamelberg, PhD, applied AI researcher and builder"
+twitter:
+  username: "KedmaHamelberg"
