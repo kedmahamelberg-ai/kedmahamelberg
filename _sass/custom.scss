@@ -90,12 +90,7 @@ body{color:var(--kh-ink);background:var(--kh-paper)}
 .kh-observatory__copy p{max-width:720px;color:#d6e0e8;line-height:1.65}
 .kh-observatory__visual{position:relative;min-width:0}
 .kh-discovery-globe{position:relative;width:100%;height:320px}
-.kh-discovery-globe canvas{display:block;cursor:grab;touch-action:pan-y}
-.kh-discovery-globe canvas:active{cursor:grabbing}
-.kh-globe-controls{display:flex;align-items:center;justify-content:space-between;gap:12px;font-size:.7rem;color:#d6e0e8}
-.kh-globe-controls button{padding:6px 12px;border:1px solid #d6e0e8;border-radius:20px;background:transparent;color:white;font:inherit;cursor:pointer}
-.kh-globe-credit{display:block;margin-top:10px;font-size:.6rem;color:#d6e0e8}
-.kh-globe-credit a{color:inherit}
+.kh-discovery-globe canvas{display:block;pointer-events:none}
 #kh-globe-fallback{font-size:.8rem;color:#d6e0e8}
 
 .kh-offer-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:.8rem}

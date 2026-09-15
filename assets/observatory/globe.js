@@ -12,7 +12,7 @@ export async function initDiscoveryGlobe({containerId, toggleId, promptId, fallb
   if (!container) throw new Error(`Missing globe container: ${containerId}`);
   const canvas = document.createElement('canvas');
   canvas.setAttribute('role', 'img');
-  canvas.setAttribute('aria-label', 'Rotating world globe from the AI Empowerment Observatory. Drag to explore or use the pause button.');
+  canvas.setAttribute('aria-label', 'Rotating world globe from the AI Empowerment Observatory.');
   const context = canvas.getContext('2d');
   let land;
   try {
@@ -101,24 +101,6 @@ export async function initDiscoveryGlobe({containerId, toggleId, promptId, fallb
     if (moving) {moving = false; updateToggle();}
     else reset({resume:true});
   }, {signal:listeners.signal});
-  canvas.addEventListener('pointerdown', event => {
-    moving = false; updateToggle();
-    drag = {id:event.pointerId, x:event.clientX, y:event.clientY, center:[...center]};
-    canvas.setPointerCapture(event.pointerId);
-  }, {signal:listeners.signal});
-  canvas.addEventListener('pointermove', event => {
-    if (!drag || drag.id !== event.pointerId) return;
-    const sensitivity = 70 / projection.scale();
-    center = [drag.center[0] - (event.clientX-drag.x)*sensitivity,
-      Math.max(-75, Math.min(75, drag.center[1] + (event.clientY-drag.y)*sensitivity))];
-    selected = null; dirty = true;
-    if (prompt) prompt.textContent = 'Drag to explore';
-  }, {signal:listeners.signal});
-  const endDrag = () => {if (drag) {drag = null; onSelect?.(null);}};
-  canvas.addEventListener('pointerup', endDrag, {signal:listeners.signal});
-  canvas.addEventListener('pointercancel', endDrag, {signal:listeners.signal});
-  container.addEventListener('pointerenter', () => {hovering = true;}, {signal:listeners.signal});
-  container.addEventListener('pointerleave', () => {hovering = false;}, {signal:listeners.signal});
   motionPreference.addEventListener('change', () => {if (motionPreference.matches) {moving=false; updateToggle();}}, {signal:listeners.signal});
   const resizeObserver = new ResizeObserver(resize);
   resizeObserver.observe(container);

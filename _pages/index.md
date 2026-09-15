@@ -148,9 +148,7 @@ header:
 <section class="kh-observatory">
   <div class="kh-observatory__visual">
     <div id="kh-discovery-globe" class="kh-discovery-globe"></div>
-    <div class="kh-globe-controls"><span id="kh-globe-prompt">Drag to explore</span><button id="kh-globe-toggle" type="button" aria-pressed="true" hidden>Pause globe</button></div>
     <p id="kh-globe-fallback">Explore the world of AI through the Observatory.</p>
-    <small class="kh-globe-credit">Map: <a href="https://www.naturalearthdata.com/about/terms-of-use/" target="_blank" rel="noopener noreferrer">Natural Earth</a></small>
     <script type="module" src="/assets/observatory/init.js"></script>
   </div>
 
