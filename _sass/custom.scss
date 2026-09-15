@@ -88,12 +88,8 @@ body{color:var(--kh-ink);background:var(--kh-paper)}
 .kh-observatory__copy .kh-kicker{color:#9fc1ff}
 .kh-observatory__copy h2{margin:0;color:white;font-size:clamp(2.3rem,4vw,4rem)}
 .kh-observatory__copy p{max-width:720px;color:#d6e0e8;line-height:1.65}
-.kh-observatory__visual{position:relative;min-height:290px}
-.kh-globe-core{position:absolute;inset:50% auto auto 50%;display:grid;place-items:center;width:150px;height:150px;transform:translate(-50%,-50%);color:white;background:radial-gradient(circle at 35% 30%,#3f9aa2,var(--kh-teal) 55%,#0c4550);border:2px solid rgba(255,255,255,.55);border-radius:50%;box-shadow:inset -22px -18px 40px rgba(0,0,0,.25),0 20px 45px rgba(0,0,0,.22)}
-.kh-globe-core span{font-size:1.15rem;font-weight:900;letter-spacing:.12em}
-.kh-globe-orbit{position:absolute;inset:50% auto auto 50%;border:1px solid rgba(157,190,255,.35);border-radius:50%;transform:translate(-50%,-50%) rotate(-18deg)}
-.kh-globe-orbit--1{width:230px;height:120px}
-.kh-globe-orbit--2{width:275px;height:180px;transform:translate(-50%,-50%) rotate(28deg)}
+.kh-observatory__visual{display:grid;place-items:center;min-height:290px}
+.kh-observatory__logo{display:block;width:240px;max-width:100%;height:auto}
 
 .kh-offer-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:.8rem}
 .kh-offer-grid article{min-height:235px;padding:1.4rem;background:white;border:1px solid var(--kh-line);border-radius:14px}
@@ -168,7 +164,6 @@ body{color:var(--kh-ink);background:var(--kh-paper)}
   .kh-page-hero{padding:3rem 0}
   .kh-research-program{padding:3rem 0}
   .kh-observatory{margin:3rem 0;padding:2rem 1.2rem}
-  .kh-globe-orbit--2{width:230px}
 }
 
 

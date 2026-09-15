@@ -146,12 +146,8 @@ header:
 </section>
 
 <section class="kh-observatory">
-  <div class="kh-observatory__visual" aria-hidden="true">
-    <div class="kh-globe-orbit kh-globe-orbit--1"></div>
-    <div class="kh-globe-orbit kh-globe-orbit--2"></div>
-    <div class="kh-globe-core">
-      <span>AIEO</span>
-    </div>
+  <div class="kh-observatory__visual">
+    <img class="kh-observatory__logo" src="/assets/images/observatory-logo.svg" alt="AI Empowerment Observatory logo" width="240" height="240" loading="lazy">
   </div>
 
   <div class="kh-observatory__copy">
