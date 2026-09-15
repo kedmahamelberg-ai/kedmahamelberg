@@ -1,0 +1,1 @@
+Globe renderer, geometry library and Natural Earth land data copied from the AI Empowerment Observatory. Retain the bundled geometry license. The only renderer adaptations are the local data URL and the accessible description for this standalone globe. Pause, drag, reduced-motion and offscreen behavior match the Observatory.
