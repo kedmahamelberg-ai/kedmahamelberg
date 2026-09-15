@@ -184,16 +184,18 @@ header:
 </section>
 
 <section class="kh-section kh-brief-intro" aria-labelledby="brief-heading">
-  <div class="kh-section__heading">
-    <p class="kh-kicker">Read the stories</p>
-    <h2 id="brief-heading">The Brief</h2>
-    <p>AI news from five markets, explained in plain language. Explore the original
-      sources, read recent research, and take a daily pause with art, words and music.</p>
+  <div class="kh-brief-heading">
+    <div><p class="kh-kicker">A clearer view of AI</p><h2 id="brief-heading">The Brief<span>.</span></h2></div>
+    <p>The developments. The research. What they mean for people.<br>Explore AI news across five markets, with the original sources a click away.</p>
   </div>
-  <div class="kh-actions">
-    <a class="kh-btn kh-btn--primary" href="https://brief.hamelberg-ai.com/">Read the Brief ↗</a>
-    <a class="kh-btn kh-btn--outline" href="https://observatory.hamelberg-ai.com/">Explore the weekly evidence ↗</a>
+  <div class="kh-news-carousel" role="region" aria-roledescription="carousel" aria-label="Stories from The Brief">
+    <div class="kh-news-track" id="kh-news-track" tabindex="0" aria-label="News stories, scroll to explore">
+{% include brief-carousel-fallback.html %}
+    </div>
+    <div class="kh-carousel-bottom"><span class="kh-carousel-status" aria-live="polite">Explore the stories</span><div class="kh-carousel-controls"><button type="button" data-carousel="previous" aria-label="Previous stories">←</button><button type="button" data-carousel="pause" aria-label="Pause automatic story rotation">Pause</button><button type="button" data-carousel="next" aria-label="Next stories">→</button></div></div>
   </div>
+  <div class="kh-brief-footer"><a class="kh-btn kh-btn--primary" href="https://brief.hamelberg-ai.com/">Read The Brief ↗</a><div><p>Follow The Brief</p>{% include brief-social-links.html %}</div></div>
+  <script src="/assets/js/brief-carousel.js" defer></script>
 </section>
 
 <section class="kh-section">
