@@ -31,7 +31,7 @@ header:
       <span><strong>30M+</strong> social-media posts across projects</span>
       <span><strong>JPP&amp;M</strong> peer-reviewed research</span>
       <span><strong>4.9/5</strong> Applied AI teaching</span>
-      <span><strong>AIEO</strong> creator & builder</span>
+      <span><strong>AI Observatory &amp; The Brief</strong><br>Founder &amp; developer</span>
     </div>
   </div>
 
