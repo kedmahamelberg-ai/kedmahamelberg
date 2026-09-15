@@ -195,7 +195,7 @@ header:
     <div class="kh-carousel-bottom"><span class="kh-carousel-status" aria-live="polite">Explore the stories</span><div class="kh-carousel-controls"><button type="button" data-carousel="previous" aria-label="Previous stories">←</button><button type="button" data-carousel="pause" aria-label="Pause automatic story rotation">Pause</button><button type="button" data-carousel="next" aria-label="Next stories">→</button></div></div>
   </div>
   <div class="kh-brief-footer"><a class="kh-btn kh-btn--primary" href="https://brief.hamelberg-ai.com/">Read The Brief ↗</a><div><p>Follow The Brief</p>{% include brief-social-links.html %}</div></div>
-  <script src="/assets/js/brief-carousel.js" defer></script>
+  <script src="/assets/js/brief-carousel.js?v=20260915-photos" defer></script>
 </section>
 
 <section class="kh-section">

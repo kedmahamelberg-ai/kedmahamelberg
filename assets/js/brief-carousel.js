@@ -35,7 +35,7 @@
   const element = (tag, className, text) => { const el = document.createElement(tag); if (className) el.className = className; if (text) el.textContent = text; return el; };
   async function load() {
     try {
-      const response = await fetch('https://brief.hamelberg-ai.com/data/spotlight.json', {credentials:'omit', signal:AbortSignal.timeout(7000)});
+      const response = await fetch('https://brief.hamelberg-ai.com/data/spotlight.json', {credentials:'omit', cache:'no-cache', signal:AbortSignal.timeout(7000)});
       if (!response.ok) return;
       const data = await response.json(); if (data.version !== 1 || !Array.isArray(data.items)) return;
       const cards = [];
