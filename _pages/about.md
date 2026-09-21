@@ -45,10 +45,10 @@ header:
 
   <div class="kh-about-hero__image">
     <img
-      src="/assets/images/KedmaHamelberg1092-a.jpg"
+      src="/assets/images/optimized/kedmahamelberg1092-a-1600.jpg"
       alt="Kedma Hamelberg, PhD, applied AI researcher and builder"
       loading="eager"
-    >
+     srcset="/assets/images/optimized/kedmahamelberg1092-a-480.jpg 480w, /assets/images/optimized/kedmahamelberg1092-a-960.jpg 960w, /assets/images/optimized/kedmahamelberg1092-a-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="4259" height="3011">
   </div>
 </section>
 
@@ -115,10 +115,10 @@ header:
   <div class="kh-proof-photo-grid">
     <figure>
       <img
-        src="/assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg"
+        src="/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg"
         alt="Kedma Hamelberg defending her PhD research at the University of Amsterdam"
         loading="lazy"
-      >
+       srcset="/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-480.jpg 480w, /assets/images/optimized/08-close-up-speaking-kedma-hamelberg-960.jpg 960w, /assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="2048" height="1365">
       <figcaption>
         <span>Research</span>
         <strong>Defending the work</strong>
@@ -128,10 +128,10 @@ header:
 
     <figure>
       <img
-        src="/assets/images/kedma_lecturer.jpg"
+        src="/assets/images/optimized/kedma-lecturer-1600.jpg"
         alt="Kedma Hamelberg with Digital Marketing and Analytics students at the University of Amsterdam"
         loading="lazy"
-      >
+       srcset="/assets/images/optimized/kedma-lecturer-480.jpg 480w, /assets/images/optimized/kedma-lecturer-960.jpg 960w, /assets/images/optimized/kedma-lecturer-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="4000" height="3008">
       <figcaption>
         <span>Teaching</span>
         <strong>Turning methods into learning</strong>
@@ -141,10 +141,10 @@ header:
 
     <figure>
       <img
-        src="/assets/images/kedma award.jpeg"
+        src="/assets/images/optimized/kedma-award-320.jpg"
         alt="Kedma Hamelberg receiving Best Lecturer recognition"
         loading="lazy"
-      >
+       srcset="/assets/images/optimized/kedma-award-320.jpg 320w" sizes="(max-width: 700px) 100vw, 960px" width="320" height="320">
       <figcaption>
         <span>Recognition</span>
         <strong>Best Lecturer</strong>
@@ -196,20 +196,20 @@ header:
   <div class="kh-defense-photos">
     <img
       class="kh-defense-main"
-      src="/assets/images/defense/04-podium-with-slide.jpg"
+      src="/assets/images/optimized/04-podium-with-slide-1600.jpg"
       alt="Kedma Hamelberg presenting her doctoral research at the University of Amsterdam"
       loading="lazy"
-    >
+     srcset="/assets/images/optimized/04-podium-with-slide-480.jpg 480w, /assets/images/optimized/04-podium-with-slide-960.jpg 960w, /assets/images/optimized/04-podium-with-slide-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="2048" height="1365">
     <img
-      src="/assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg"
+      src="/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg"
       alt="Kedma Hamelberg speaking during her PhD defense"
       loading="lazy"
-    >
+     srcset="/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-480.jpg 480w, /assets/images/optimized/08-close-up-speaking-kedma-hamelberg-960.jpg 960w, /assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="2048" height="1365">
     <img
-      src="/assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg"
+      src="/assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-1600.jpg"
       alt="Kedma Hamelberg with her University of Amsterdam PhD committee"
       loading="lazy"
-    >
+     srcset="/assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-480.jpg 480w, /assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-960.jpg 960w, /assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="2048" height="1365">
   </div>
 
   <div class="kh-defense-copy">
@@ -312,3 +312,8 @@ header:
   }
 }
 </script>
+
+
+## Projects I created and developed
+
+Explore the story behind the [AI Empowerment Observatory](/ai-empowerment-observatory/) and [The Brief](/the-brief/), including their purpose, interfaces and my role.

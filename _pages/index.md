@@ -37,10 +37,10 @@ header:
 
   <div class="kh-hero__portrait">
     <img
-      src="/assets/images/KedmaHamelberg1092-a.jpg"
+      src="/assets/images/optimized/kedmahamelberg1092-a-1600.jpg"
       alt="Kedma Hamelberg"
       loading="eager"
-    >
+     srcset="/assets/images/optimized/kedmahamelberg1092-a-480.jpg 480w, /assets/images/optimized/kedmahamelberg1092-a-960.jpg 960w, /assets/images/optimized/kedmahamelberg1092-a-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="4259" height="3011">
     <div class="kh-portrait-caption">
       <strong>Kedma Hamelberg, PhD</strong>
       <span>Researcher · AI builder · educator</span>
@@ -315,3 +315,8 @@ header:
 </section>
 
 </div>
+
+
+## Projects I created and developed
+
+Explore the story behind the [AI Empowerment Observatory](/ai-empowerment-observatory/) and [The Brief](/the-brief/), including their purpose, interfaces and my role.

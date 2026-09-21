@@ -166,3 +166,8 @@ header:
 </section>
 
 </div>
+
+
+## Projects I created and developed
+
+Explore the story behind the [AI Empowerment Observatory](/ai-empowerment-observatory/) and [The Brief](/the-brief/), including their purpose, interfaces and my role.

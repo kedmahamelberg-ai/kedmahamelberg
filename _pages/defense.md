@@ -41,10 +41,10 @@ header:
 
   <div class="kh-phd-hero__image">
     <img
-      src="/assets/images/defense/04-podium-with-slide.jpg"
+      src="/assets/images/optimized/04-podium-with-slide-1600.jpg"
       alt="Kedma Hamelberg presenting her PhD research at the University of Amsterdam Agnietenkapel"
       loading="eager"
-    >
+     srcset="/assets/images/optimized/04-podium-with-slide-480.jpg 480w, /assets/images/optimized/04-podium-with-slide-960.jpg 960w, /assets/images/optimized/04-podium-with-slide-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="2048" height="1365">
   </div>
 </section>
 
@@ -116,10 +116,10 @@ header:
 
   <aside class="kh-phd-method__visual">
     <img
-      src="/assets/images/defense/21-kedma-hamelberg-phd-dissertation.jpg"
+      src="/assets/images/optimized/21-kedma-hamelberg-phd-dissertation-1600.jpg"
       alt="Voices in Action PhD dissertation by Kedma Hamelberg"
       loading="lazy"
-    >
+     srcset="/assets/images/optimized/21-kedma-hamelberg-phd-dissertation-480.jpg 480w, /assets/images/optimized/21-kedma-hamelberg-phd-dissertation-960.jpg 960w, /assets/images/optimized/21-kedma-hamelberg-phd-dissertation-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="2048" height="1365">
   </aside>
 </section>
 
@@ -179,37 +179,37 @@ header:
   <div class="kh-phd-gallery-grid">
     <figure>
       <img
-        src="/assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg"
+        src="/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg"
         alt="Kedma Hamelberg answering questions during her doctoral defense"
         loading="lazy"
-      >
+       srcset="/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-480.jpg 480w, /assets/images/optimized/08-close-up-speaking-kedma-hamelberg-960.jpg 960w, /assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="2048" height="1365">
       <figcaption>Defending the work</figcaption>
     </figure>
 
     <figure>
       <img
-        src="/assets/images/defense/07-podium-committee.jpg"
+        src="/assets/images/optimized/07-podium-committee-1600.jpg"
         alt="Kedma Hamelberg facing the doctoral committee at the Agnietenkapel"
         loading="lazy"
-      >
+       srcset="/assets/images/optimized/07-podium-committee-480.jpg 480w, /assets/images/optimized/07-podium-committee-960.jpg 960w, /assets/images/optimized/07-podium-committee-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="2048" height="1365">
       <figcaption>Formal opposition</figcaption>
     </figure>
 
     <figure>
       <img
-        src="/assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg"
+        src="/assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-1600.jpg"
         alt="Kedma Hamelberg with her PhD committee"
         loading="lazy"
-      >
+       srcset="/assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-480.jpg 480w, /assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-960.jpg 960w, /assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="2048" height="1365">
       <figcaption>With the committee</figcaption>
     </figure>
 
     <figure>
       <img
-        src="/assets/images/defense/11-diploma-handover.jpg"
+        src="/assets/images/optimized/11-diploma-handover-1600.jpg"
         alt="Kedma Hamelberg receiving her PhD diploma"
         loading="lazy"
-      >
+       srcset="/assets/images/optimized/11-diploma-handover-480.jpg 480w, /assets/images/optimized/11-diploma-handover-960.jpg 960w, /assets/images/optimized/11-diploma-handover-1600.jpg 1600w" sizes="(max-width: 700px) 100vw, 960px" width="2048" height="1365">
       <figcaption>Conferral of the doctorate</figcaption>
     </figure>
   </div>
