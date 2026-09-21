@@ -114,3 +114,18 @@ tag_archive:
 og_image_alt: "Kedma Hamelberg, PhD, applied AI researcher and builder"
 twitter:
   username: "KedmaHamelberg"
+
+exclude:
+  - README.md
+  - SEARCH-METADATA.md
+  - BRIEF-CAROUSEL.md
+  - scripts
+  - _pages/_pages
+  - assets/kedma_hamelberg_cv_august2025.pdf
+  - assets/kedma_hamelberg_cv_july2025.pdf
+  - assets/kedma_hamelberg_cv_june2025.pdf
+  - assets/kedma_hamelberg_cv_may2025_general.pdf
+  - assets/kedma_hamelberg_cv_august2025.docx
+  - assets/kedma_hamelberg_cv_july2025.docx
+  - assets/kedma_hamelberg_cv_june2025.docx
+  - assets/observatory/README.md
