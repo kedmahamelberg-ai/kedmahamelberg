@@ -1,10 +1,10 @@
 {
   "scholar_id": "M8TAlNwAAAAJ",
   "profile_url": "https://scholar.google.com/citations?user=M8TAlNwAAAAJ&hl=en",
-  "last_updated": "2026-09-14T11:22:34Z",
-  "last_updated_human": "September 14, 2026",
+  "last_updated": "2026-09-21T11:35:52Z",
+  "last_updated_human": "September 21, 2026",
   "stats": {
-    "total_citations": 27,
+    "total_citations": 28,
     "h_index": 1,
     "i10_index": 1
   },
@@ -19,7 +19,7 @@
     },
     {
       "year": 2026,
-      "count": 13
+      "count": 14
     }
   ],
   "publications": [
@@ -28,7 +28,7 @@
       "authors": "K Hamelberg, K De Ruyter, W Van Dolen, U Konuş",
       "venue": "Journal of Public Policy & Marketing 44 (1), 140-159, 2025",
       "year": 2025,
-      "citations": 27,
+      "citations": 28,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8TAlNwAAAAJ&pagesize=100&citation_for_view=M8TAlNwAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -38,6 +38,14 @@
       "year": 2026,
       "citations": 0,
       "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8TAlNwAAAAJ&pagesize=100&citation_for_view=M8TAlNwAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+      "title": "Voices in action: AI-Powered Insights from Corporate Messaging During Societal Crises",
+      "authors": "K Hamelberg",
+      "venue": "https://dare.uva.nl/id/aaef5c5d-409b-4dd1-b508-75292b44bae4, 2026",
+      "year": 2026,
+      "citations": 0,
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=M8TAlNwAAAAJ&pagesize=100&citation_for_view=M8TAlNwAAAAJ:Tyk-4Ss8FVUC"
     },
     {
       "title": "Emojis for Good: How Emoji Symbolism in Brand Communication Affects Consumer Active Engagement with Sustainable Development Goals",
