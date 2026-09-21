@@ -2,8 +2,8 @@
   "/photos/": [
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/KedmaHamelberg1092-a.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/KedmaHamelberg1092-a.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/kedmahamelberg1092-a-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/kedmahamelberg1092-a-1600.jpg",
       "caption": "Kedma Hamelberg, PhD, applied AI researcher and builder",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -11,8 +11,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg",
       "caption": "Kedma Hamelberg speaking during her PhD defense at the University of Amsterdam",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -20,8 +20,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/04-podium-with-slide.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/04-podium-with-slide.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/04-podium-with-slide-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/04-podium-with-slide-1600.jpg",
       "caption": "Kedma Hamelberg presenting her doctoral research at the Agnietenkapel",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -29,8 +29,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-1600.jpg",
       "caption": "Kedma Hamelberg with her University of Amsterdam PhD committee",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -38,8 +38,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/kedma_lecturer.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/kedma_lecturer.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/kedma-lecturer-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/kedma-lecturer-1600.jpg",
       "caption": "Kedma Hamelberg with Digital Marketing and Analytics students",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -47,8 +47,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/kedma_award.jpeg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/kedma_award.jpeg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/kedma-award-320.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/kedma-award-320.jpg",
       "caption": "Kedma Hamelberg receiving Best Lecturer recognition",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -58,8 +58,8 @@
   "/": [
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/KedmaHamelberg1092-a.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/KedmaHamelberg1092-a.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/kedmahamelberg1092-a-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/kedmahamelberg1092-a-1600.jpg",
       "caption": "Kedma Hamelberg",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -69,8 +69,8 @@
   "/defense/": [
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/04-podium-with-slide.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/04-podium-with-slide.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/04-podium-with-slide-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/04-podium-with-slide-1600.jpg",
       "caption": "Kedma Hamelberg presenting her PhD research at the University of Amsterdam Agnietenkapel",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -78,8 +78,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/21-kedma-hamelberg-phd-dissertation.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/21-kedma-hamelberg-phd-dissertation.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/21-kedma-hamelberg-phd-dissertation-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/21-kedma-hamelberg-phd-dissertation-1600.jpg",
       "caption": "Voices in Action PhD dissertation by Kedma Hamelberg",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -87,8 +87,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg",
       "caption": "Kedma Hamelberg answering questions during her doctoral defense",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -96,8 +96,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/07-podium-committee.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/07-podium-committee.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/07-podium-committee-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/07-podium-committee-1600.jpg",
       "caption": "Kedma Hamelberg facing the doctoral committee at the Agnietenkapel",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -105,8 +105,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-1600.jpg",
       "caption": "Kedma Hamelberg with her PhD committee",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -114,8 +114,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/11-diploma-handover.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/11-diploma-handover.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/11-diploma-handover-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/11-diploma-handover-1600.jpg",
       "caption": "Kedma Hamelberg receiving her PhD diploma",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -125,8 +125,8 @@
   "/about/": [
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/KedmaHamelberg1092-a.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/KedmaHamelberg1092-a.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/kedmahamelberg1092-a-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/kedmahamelberg1092-a-1600.jpg",
       "caption": "Kedma Hamelberg, PhD, applied AI researcher and builder",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -134,8 +134,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/08-close-up-speaking-kedma-hamelberg.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/08-close-up-speaking-kedma-hamelberg-1600.jpg",
       "caption": "Kedma Hamelberg defending her PhD research at the University of Amsterdam",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -143,8 +143,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/kedma_lecturer.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/kedma_lecturer.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/kedma-lecturer-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/kedma-lecturer-1600.jpg",
       "caption": "Kedma Hamelberg with Digital Marketing and Analytics students at the University of Amsterdam",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -152,8 +152,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/kedma%20award.jpeg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/kedma%20award.jpeg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/kedma-award-320.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/kedma-award-320.jpg",
       "caption": "Kedma Hamelberg receiving Best Lecturer recognition",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -161,8 +161,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/04-podium-with-slide.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/04-podium-with-slide.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/04-podium-with-slide-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/04-podium-with-slide-1600.jpg",
       "caption": "Kedma Hamelberg presenting her doctoral research at the University of Amsterdam",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
@@ -170,8 +170,8 @@
     },
     {
       "@type": "ImageObject",
-      "@id": "https://kedmahamelberg.com/assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg#image",
-      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/13-kedma-hamelberg-standing-committee-phd.jpg",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/13-kedma-hamelberg-standing-committee-phd-1600.jpg",
       "caption": "Kedma Hamelberg with her University of Amsterdam PhD committee",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
