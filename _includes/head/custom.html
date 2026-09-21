@@ -14,5 +14,7 @@
 
 {% include adsense-connection.html %}
 
-<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="robots" content="{% if page.noindex %}noindex,follow{% else %}index,follow,max-image-preview:large{% endif %}">
 {% include identity-schema.html %}
+
+<meta name="google-site-verification" content="K2s35cQ3s7T9zGR9R08HTj5-AjbeU6p4uJaci3942bo">
