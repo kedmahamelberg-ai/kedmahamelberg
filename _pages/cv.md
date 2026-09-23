@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "CV"
+description: "Current CV of Kedma Hamelberg, PhD: applied AI research, decision intelligence, professional experience, education, and teaching."
+last_modified_at: 2026-09-23T22:00:00+02:00
 permalink: /cv/
 classes: wide
 author_profile: false
@@ -12,7 +14,7 @@ author_profile: false
   <p class="kh-kicker">Curriculum vitae</p>
   <h1>Research, AI systems, decision intelligence, and executive learning.</h1>
   <p>
-    Download the current public CV, updated for 2026. It reflects my completed
+    Download the current public CV, updated on 23 September 2026. It reflects my completed
     PhD, current Human-AI Systems research, AI Empowerment Observatory work,
     and broader applied-AI and insights portfolio.
   </p>
