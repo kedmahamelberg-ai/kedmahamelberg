@@ -1,10 +1,11 @@
 {% assign identity_url = page.url | absolute_url %}
+{% assign identity_page_images = site.data.page_images[page.url] %}
 {% assign identity_image = page.header.og_image | default: site.og_image | absolute_url %}
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
 {% for entity in site.data.identity %}{{ entity | jsonify }},{% endfor %}
 {% for image in site.data.page_images[page.url] %}{{ image | jsonify }},{% endfor %}
 {"@type":"WebSite","@id":"https://kedmahamelberg.com/#website","url":"https://kedmahamelberg.com/","name":"Kedma Hamelberg","publisher":{"@id":"https://kedmahamelberg.com/#person"}},
-{"@type":{% if page.url == '/about/' or page.url == '/' %}"ProfilePage"{% else %}"WebPage"{% endif %},"@id":{{ identity_url | append: '#webpage' | jsonify }},"url":{{ identity_url | jsonify }},"name":{{ page.title | jsonify }},"description":{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | jsonify }},"isPartOf":{"@id":"https://kedmahamelberg.com/#website"},"about":{"@id":"https://kedmahamelberg.com/#person"},"author":{"@id":"https://kedmahamelberg.com/#person"},"primaryImageOfPage":{"@type":"ImageObject","contentUrl":{{ identity_image | jsonify }}}{% if page.url == '/about/' or page.url == '/' %},"mainEntity":{"@id":"https://kedmahamelberg.com/#person"}{% endif %}}
+{"@type":{% if page.url == '/about/' or page.url == '/' %}"ProfilePage"{% elsif page.url == '/photos/' %}"ImageGallery"{% else %}"WebPage"{% endif %},"@id":{{ identity_url | append: '#webpage' | jsonify }},"url":{{ identity_url | jsonify }},"name":{{ page.title | jsonify }},"description":{{ page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | jsonify }},"isPartOf":{"@id":"https://kedmahamelberg.com/#website"},"about":{"@id":"https://kedmahamelberg.com/#person"},"author":{"@id":"https://kedmahamelberg.com/#person"}{% if identity_page_images %},"image":[{% for image in identity_page_images %}{"@id":{{ image["@id"] | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]{% endif %},"primaryImageOfPage":{"@type":"ImageObject","contentUrl":{{ identity_image | jsonify }}}{% if page.url == '/about/' or page.url == '/' %},"mainEntity":{"@id":"https://kedmahamelberg.com/#person"}{% endif %}}
 ]}
 </script>
