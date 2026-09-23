@@ -7,7 +7,10 @@
       "caption": "Kedma Hamelberg, PhD, applied AI researcher and builder",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1131,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -16,7 +19,10 @@
       "caption": "Kedma Hamelberg speaking during her PhD defense at the University of Amsterdam",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -25,7 +31,10 @@
       "caption": "Kedma Hamelberg presenting her doctoral research at the Agnietenkapel",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -34,7 +43,10 @@
       "caption": "Kedma Hamelberg with her University of Amsterdam PhD committee",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -43,7 +55,10 @@
       "caption": "Kedma Hamelberg with Digital Marketing and Analytics students",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1203,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -52,7 +67,58 @@
       "caption": "Kedma Hamelberg receiving Best Lecturer recognition",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 320,
+      "height": 320,
+      "encodingFormat": "image/jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://kedmahamelberg.com/assets/images/defense/06-portrait-lineage-kedma-hamelberg.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/06-portrait-lineage-kedma-hamelberg.jpg",
+      "caption": "Kedma Hamelberg during her PhD defense at the University of Amsterdam",
+      "about": {
+        "@id": "https://kedmahamelberg.com/#person"
+      },
+      "width": 2048,
+      "height": 1365,
+      "encodingFormat": "image/jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://kedmahamelberg.com/assets/images/defense/12-kedma-hamelberg-standing.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/12-kedma-hamelberg-standing.jpg",
+      "caption": "Kedma Hamelberg standing during her doctoral defense at the Agnietenkapel",
+      "about": {
+        "@id": "https://kedmahamelberg.com/#person"
+      },
+      "width": 2048,
+      "height": 1365,
+      "encodingFormat": "image/jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/11-diploma-handover-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/11-diploma-handover-1600.jpg",
+      "caption": "Kedma Hamelberg receiving her PhD diploma at the University of Amsterdam",
+      "about": {
+        "@id": "https://kedmahamelberg.com/#person"
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://kedmahamelberg.com/assets/images/defense/01-group-photo-kedma-hamelberg.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/defense/01-group-photo-kedma-hamelberg.jpg",
+      "caption": "Kedma Hamelberg with her doctoral committee and guests outside the Agnietenkapel",
+      "about": {
+        "@id": "https://kedmahamelberg.com/#person"
+      },
+      "width": 2048,
+      "height": 1638,
+      "encodingFormat": "image/jpeg"
     }
   ],
   "/": [
@@ -63,7 +129,10 @@
       "caption": "Kedma Hamelberg",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1131,
+      "encodingFormat": "image/jpeg"
     }
   ],
   "/defense/": [
@@ -74,7 +143,10 @@
       "caption": "Kedma Hamelberg presenting her PhD research at the University of Amsterdam Agnietenkapel",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -83,7 +155,10 @@
       "caption": "Voices in Action PhD dissertation by Kedma Hamelberg",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -92,7 +167,10 @@
       "caption": "Kedma Hamelberg answering questions during her doctoral defense",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -101,7 +179,10 @@
       "caption": "Kedma Hamelberg facing the doctoral committee at the Agnietenkapel",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -110,7 +191,10 @@
       "caption": "Kedma Hamelberg with her PhD committee",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -119,7 +203,10 @@
       "caption": "Kedma Hamelberg receiving her PhD diploma",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
     }
   ],
   "/about/": [
@@ -130,7 +217,10 @@
       "caption": "Kedma Hamelberg, PhD, applied AI researcher and builder",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1131,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -139,7 +229,10 @@
       "caption": "Kedma Hamelberg defending her PhD research at the University of Amsterdam",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -148,7 +241,10 @@
       "caption": "Kedma Hamelberg with Digital Marketing and Analytics students at the University of Amsterdam",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1203,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -157,7 +253,10 @@
       "caption": "Kedma Hamelberg receiving Best Lecturer recognition",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 320,
+      "height": 320,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -166,7 +265,10 @@
       "caption": "Kedma Hamelberg presenting her doctoral research at the University of Amsterdam",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
     },
     {
       "@type": "ImageObject",
@@ -175,7 +277,52 @@
       "caption": "Kedma Hamelberg with her University of Amsterdam PhD committee",
       "about": {
         "@id": "https://kedmahamelberg.com/#person"
-      }
+      },
+      "width": 1600,
+      "height": 1066,
+      "encodingFormat": "image/jpeg"
+    }
+  ],
+  "/teaching/": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://kedmahamelberg.com/assets/images/optimized/kedma-lecturer-1600.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/optimized/kedma-lecturer-1600.jpg",
+      "caption": "Kedma Hamelberg with Digital Marketing and Analytics students at the University of Amsterdam",
+      "about": {
+        "@id": "https://kedmahamelberg.com/#person"
+      },
+      "width": 1600,
+      "height": 1203,
+      "encodingFormat": "image/jpeg"
+    }
+  ],
+  "/ai-empowerment-observatory/": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://kedmahamelberg.com/assets/images/kedma-hamelberg-observatory-project.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/kedma-hamelberg-observatory-project.jpg",
+      "caption": "AI Empowerment Observatory interface, created and developed by Kedma Hamelberg",
+      "about": {
+        "@id": "https://observatory.hamelberg-ai.com/#website"
+      },
+      "width": 1600,
+      "height": 732,
+      "encodingFormat": "image/jpeg"
+    }
+  ],
+  "/the-brief/": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://kedmahamelberg.com/assets/images/kedma-hamelberg-brief-project.jpg#image",
+      "contentUrl": "https://kedmahamelberg.com/assets/images/kedma-hamelberg-brief-project.jpg",
+      "caption": "The Brief interface, created and developed by Kedma Hamelberg",
+      "about": {
+        "@id": "https://brief.hamelberg-ai.com/#website"
+      },
+      "width": 1600,
+      "height": 732,
+      "encodingFormat": "image/jpeg"
     }
   ]
 }
