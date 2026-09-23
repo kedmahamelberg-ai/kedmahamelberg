@@ -2,10 +2,12 @@
 layout: single
 title: "Teaching"
 permalink: /teaching/
+last_modified_at: 2026-09-23T22:40:00+02:00
 classes: wide
 author_profile: false
 excerpt: "Teaching and executive education by Kedma Hamelberg, PhD, in applied AI, digital marketing and analytics."
 header:
+  og_image_alt: "Kedma Hamelberg with Digital Marketing and Analytics students at the University of Amsterdam"
   og_image: "/assets/images/kedma_lecturer.jpg"
 ---
 
@@ -100,4 +102,8 @@ header:
   </div>
 </section>
 
+
+<section class="kh-section">
+<figure><img src="/assets/images/optimized/kedma-lecturer-1600.jpg" alt="Kedma Hamelberg with Digital Marketing and Analytics students at the University of Amsterdam" width="1600" height="1203" loading="lazy" decoding="async" style="max-width:100%;height:auto"><figcaption>Kedma Hamelberg with Digital Marketing and Analytics students at the University of Amsterdam. <a href="/photos/">Research and teaching photographs</a>.</figcaption></figure>
+</section>
 </div>

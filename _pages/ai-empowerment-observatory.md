@@ -4,6 +4,7 @@ title: "AI Empowerment Observatory — created and developed by Kedma Hamelberg"
 permalink: /ai-empowerment-observatory/
 excerpt: "A public research platform examining how AI developments affect human capability, creativity, autonomy, rights and control. Created and developed by Kedma Hamelberg, PhD."
 header:
+  og_image_alt: "AI Empowerment Observatory interface, created and developed by Kedma Hamelberg"
   og_image: /assets/images/kedma-hamelberg-observatory-project.jpg
 ---
 

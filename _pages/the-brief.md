@@ -4,6 +4,7 @@ title: "The Brief — created and developed by Kedma Hamelberg"
 permalink: /the-brief/
 excerpt: "AI news and research explained in plain language, with original sources available to readers. Created and developed by Kedma Hamelberg, PhD."
 header:
+  og_image_alt: "The Brief interface, created and developed by Kedma Hamelberg"
   og_image: /assets/images/kedma-hamelberg-brief-project.jpg
 ---
 

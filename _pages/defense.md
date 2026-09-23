@@ -6,6 +6,7 @@ classes: "wide kh-defense-page"
 author_profile: false
 excerpt: "Kedma Hamelberg’s PhD defense at the University of Amsterdam: Voices in Action, research and photographs."
 header:
+  og_image_alt: "Kedma Hamelberg presenting her doctoral research at the University of Amsterdam Agnietenkapel"
   og_image: "/assets/images/defense/04-podium-with-slide.jpg"
 ---
 

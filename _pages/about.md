@@ -297,21 +297,6 @@ header:
 
 </div>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "ProfilePage",
-  "url": "https://kedmahamelberg.com/about/",
-  "mainEntity": {
-    "@id": "https://kedmahamelberg.com/#person",
-    "@type": "Person",
-    "name": "Kedma Hamelberg",
-    "honorificSuffix": "PhD",
-    "url": "https://kedmahamelberg.com/",
-    "image": "https://kedmahamelberg.com/assets/images/KedmaHamelberg1092-a.jpg"
-  }
-}
-</script>
 
 
 ## Projects I created and developed
