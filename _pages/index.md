@@ -204,6 +204,7 @@ header:
     <h2 id="monitor-heading">European Security Monitor</h2>
   </div>
   <p>A public research dashboard exploring security narratives in European video content: the topics being discussed, how messages are delivered, audience responses and observed engagement. AI classifications are supported by saved English transcripts and a sample of human reviews.</p>
+<iframe src="https://kedmahamelberg-ai.github.io/european-information-integrity-monitor/radar.html" title="European Security Monitor: animated weekly data map" loading="lazy" style="display:block;width:100%;height:390px;border:0;border-radius:16px;background:#030607;margin:24px 0"></iframe>
   <div class="kh-actions"><a class="kh-btn kh-btn--primary" href="https://kedmahamelberg-ai.github.io/european-information-integrity-monitor/">Explore the Monitor ↗</a><a class="kh-btn kh-btn--outline" href="https://kedmahamelberg-ai.github.io/european-information-integrity-monitor/#methodology">Read the methods ↗</a></div>
 </section>
 
@@ -329,4 +330,5 @@ header:
 ## Projects I created and developed
 
 Explore the story behind the [AI Empowerment Observatory](/ai-empowerment-observatory/), [The Brief](/the-brief/) and the [European Security Monitor](https://kedmahamelberg-ai.github.io/european-information-integrity-monitor/), including their purpose and interfaces.
+
 
