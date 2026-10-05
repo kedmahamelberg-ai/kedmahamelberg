@@ -4,7 +4,7 @@ title: "Kedma Hamelberg, PhD | Applied AI & Decision Intelligence"
 permalink: /
 classes: wide
 author_profile: false
-excerpt: "Kedma Hamelberg, PhD — Applied AI researcher and creator of the AI Empowerment Observatory and The Brief. Explore her research, teaching and projects."
+excerpt: "Kedma Hamelberg, PhD — Applied AI researcher and creator of the AI Empowerment Observatory, The Brief and European Security Monitor. Explore her research, teaching and projects."
 header:
   og_image: "/assets/images/KedmaHamelberg1092-a.jpg"
 ---
@@ -31,7 +31,7 @@ header:
       <span><strong>30M+</strong> social-media posts across projects</span>
       <span><strong>JPP&amp;M</strong> peer-reviewed research</span>
       <span><strong>4.9/5</strong> Applied AI teaching</span>
-      <span><strong>AI Observatory &amp; The Brief</strong><br>Founder &amp; developer</span>
+      <span><strong>AI Observatory · The Brief · European Monitor</strong><br>Founder &amp; developer</span>
     </div>
   </div>
 
@@ -198,6 +198,15 @@ header:
   <script src="/assets/js/brief-carousel.js?v=20260915-photos" defer></script>
 </section>
 
+<section class="kh-section kh-section--soft" aria-labelledby="monitor-heading">
+  <div class="kh-section__heading">
+    <p class="kh-kicker">Defence · sovereignty · information influence</p>
+    <h2 id="monitor-heading">European Security Monitor</h2>
+  </div>
+  <p>A public research dashboard exploring security narratives in European video content: the topics being discussed, how messages are delivered, audience responses and observed engagement. AI classifications are supported by saved English transcripts and a sample of human reviews.</p>
+  <div class="kh-actions"><a class="kh-btn kh-btn--primary" href="https://kedmahamelberg-ai.github.io/european-information-integrity-monitor/">Explore the Monitor ↗</a><a class="kh-btn kh-btn--outline" href="https://kedmahamelberg-ai.github.io/european-information-integrity-monitor/#methodology">Read the methods ↗</a></div>
+</section>
+
 <section class="kh-section">
   <div class="kh-section__heading">
     <p class="kh-kicker">Talks · teaching · executive learning</p>
@@ -319,4 +328,5 @@ header:
 
 ## Projects I created and developed
 
-Explore the story behind the [AI Empowerment Observatory](/ai-empowerment-observatory/) and [The Brief](/the-brief/), including their purpose, interfaces and my role.
+Explore the story behind the [AI Empowerment Observatory](/ai-empowerment-observatory/), [The Brief](/the-brief/) and the [European Security Monitor](https://kedmahamelberg-ai.github.io/european-information-integrity-monitor/), including their purpose and interfaces.
+
