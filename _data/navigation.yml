@@ -2,21 +2,31 @@ main:
   - title: "Research"
     url: /research/
 
+
   - title: "AI Observatory"
     url: https://observatory.hamelberg-ai.com/
     target: _blank
 
+
   - title: "The Brief"
     url: https://brief.hamelberg-ai.com/
+
+
+  - title: "European Monitor"
+    url: https://kedmahamelberg-ai.github.io/european-information-integrity-monitor/
 
   - title: "Talks & Training"
     url: /talks/
 
+
   - title: "About"
     url: /about/
+
 
   - title: "CV"
     url: /cv/
 
+
   - title: "Photos"
     url: /photos/
+
