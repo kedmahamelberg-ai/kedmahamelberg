@@ -65,6 +65,9 @@ author:
     - label: "The Brief"
       icon: "fas fa-fw fa-newspaper"
       url: "https://brief.hamelberg-ai.com/"
+    - label: "European Security Monitor"
+      icon: "fas fa-fw fa-globe-europe"
+      url: "https://monitor.hamelberg-ai.com/"
 
 footer:
   links:
@@ -80,6 +83,9 @@ footer:
     - label: "The Brief"
       icon: "fas fa-fw fa-newspaper"
       url: "https://brief.hamelberg-ai.com/"
+    - label: "European Security Monitor"
+      icon: "fas fa-fw fa-globe-europe"
+      url: "https://monitor.hamelberg-ai.com/"
     - label: "Privacy"
       icon: "fas fa-fw fa-shield-alt"
       url: "/privacy/"
