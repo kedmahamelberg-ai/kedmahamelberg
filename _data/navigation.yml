@@ -13,7 +13,7 @@ main:
 
 
   - title: "European Monitor"
-    url: https://kedmahamelberg-ai.github.io/european-information-integrity-monitor/
+    url: https://monitor.hamelberg-ai.com/
 
   - title: "Talks & Training"
     url: /talks/
@@ -29,4 +29,3 @@ main:
 
   - title: "Photos"
     url: /photos/
-
