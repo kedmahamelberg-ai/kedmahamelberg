@@ -170,4 +170,5 @@ header:
 
 ## Projects I created and developed
 
-Explore the story behind the [AI Empowerment Observatory](/ai-empowerment-observatory/) and [The Brief](/the-brief/), including their purpose, interfaces and my role.
+Explore the story behind the [AI Empowerment Observatory](/ai-empowerment-observatory/), [The Brief](/the-brief/) and the [European Security Monitor](https://monitor.hamelberg-ai.com/), all created and developed by Kedma Hamelberg. The Monitor explores European security narratives and audience responses through weekly public video samples.
+

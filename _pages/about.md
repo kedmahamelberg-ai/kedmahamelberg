@@ -4,7 +4,7 @@ title: "About Kedma Hamelberg, PhD"
 permalink: /about/
 classes: "wide kh-about-page"
 author_profile: false
-excerpt: "Meet Kedma Hamelberg, PhD, an applied AI researcher, builder and educator, and explore her work on the AI Empowerment Observatory and The Brief."
+excerpt: "Meet Kedma Hamelberg, PhD, an applied AI researcher, builder and educator, and explore her work on the AI Empowerment Observatory, The Brief and European Security Monitor."
 header:
   og_image: "/assets/images/KedmaHamelberg1092-a.jpg"
 ---
@@ -35,7 +35,7 @@ header:
       visible in surveys, CRM, sales, or other structured data.
     </p>
 
-    <p>I created the <a href="https://observatory.hamelberg-ai.com/">AI Empowerment Observatory</a> and <a href="https://brief.hamelberg-ai.com/">The Brief</a> to make research on AI and human empowerment easier to explore. <a href="/photos/">See photographs of my research and teaching.</a></p>
+    <p>I created the <a href="https://observatory.hamelberg-ai.com/">AI Empowerment Observatory</a> and <a href="https://brief.hamelberg-ai.com/">The Brief</a> to make research on AI and human empowerment easier to explore. I also created and developed the <a href="https://monitor.hamelberg-ai.com/">European Security Monitor</a>, an independent research project on European security narratives and audience responses. <a href="/photos/">See photographs of my research and teaching.</a></p>
 
     <div class="kh-actions">
       <a class="kh-btn kh-btn--primary" href="/research/">Explore my research →</a>
@@ -301,4 +301,5 @@ header:
 
 ## Projects I created and developed
 
-Explore the story behind the [AI Empowerment Observatory](/ai-empowerment-observatory/) and [The Brief](/the-brief/), including their purpose, interfaces and my role.
+Explore the story behind the [AI Empowerment Observatory](/ai-empowerment-observatory/), [The Brief](/the-brief/) and the [European Security Monitor](https://monitor.hamelberg-ai.com/), including their purpose, interfaces and my role.
+
