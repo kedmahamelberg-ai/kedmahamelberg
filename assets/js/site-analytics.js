@@ -4,17 +4,15 @@
   const id = document.currentScript?.dataset.measurementId || '';
   if (!/^G-[A-Z0-9]+$/.test(id) || !/^https?:$/.test(location.protocol)) return;
   const key = 'kh-analytics-consent-v1';
-  const expiry = 180 * 24 * 60 * 60 * 1000;
-  let choice = null, loaded = false;
+  let choice = 'allow', loaded = false;
   try {
     const saved = JSON.parse(localStorage.getItem(key));
-    if (saved && ['allow', 'deny'].includes(saved.choice) &&
-        Number.isFinite(saved.at) && saved.at <= Date.now() && Date.now() - saved.at < expiry) choice = saved.choice;
+    if (saved?.choice === 'deny') choice = 'deny';
   } catch {}
   window.dataLayer = window.dataLayer || [];
   window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
   window.gtag('consent', 'default', {
-    analytics_storage: 'denied', ad_storage: 'denied',
+    analytics_storage: choice === 'allow' ? 'granted' : 'denied', ad_storage: 'denied',
     ad_user_data: 'denied', ad_personalization: 'denied'
   });
   const cleanUrl = value => {
@@ -61,7 +59,6 @@
   function choose(value) {
     choice = value === 'allow' ? 'allow' : 'deny';
     try { localStorage.setItem(key, JSON.stringify({choice, at: Date.now()})); } catch {}
-    document.getElementById('kh-analytics-banner')?.remove();
     if (choice === 'allow') load();
     else {
       window['ga-disable-' + id] = true;
@@ -69,21 +66,9 @@
       if (loaded) location.reload();
     }
   }
-  function open() {
-    if (document.getElementById('kh-analytics-banner')) return;
-    const banner = document.createElement('aside');
-    banner.id = 'kh-analytics-banner'; banner.className = 'kh-analytics-banner';
-    banner.setAttribute('aria-label', 'Analytics choices');
-    banner.innerHTML = '<p>May I use Google Analytics to understand which pages are useful? '
-      + '<a href="/privacy/">Privacy details</a></p><div>'
-      + '<button type="button" data-kh-choice="allow">Allow analytics</button>'
-      + '<button type="button" class="kh-analytics-no" data-kh-choice="deny">No thanks</button></div>';
-    document.body.appendChild(banner);
-  }
   document.addEventListener('click', e => {
     const button = e.target.closest('[data-kh-choice]');
     if (button) { choose(button.dataset.khChoice); return; }
-    if (e.target.closest('[data-kh-analytics-settings]')) { open(); return; }
     const link = e.target.closest('a[href]');
     if (!link || choice !== 'allow') return;
     const raw = link.getAttribute('href');
@@ -98,7 +83,6 @@
       }
     } catch {}
   });
-  window.KHAnalytics = {open, choose};
-  if (choice === 'allow') load();
-  else if (!choice) open();
+  window.KHAnalytics = {choose};
+  load();
 })();
