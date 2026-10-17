@@ -21,6 +21,10 @@ jobs:
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: python scripts/update_scholar.py
+      - name: Authorize this generated-data commit
+        uses: ./.github/actions/authorize-publisher
+        with:
+          private-key: ${{ secrets.SCHEDULED_PUBLISHER_PRIVATE_KEY }}
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
@@ -28,3 +32,4 @@ jobs:
           git add _data/scholar.json
           git diff --cached --quiet || git commit -m "chore: update Google Scholar data [$(date -u +%Y-%m-%d)]"
           git push
+
