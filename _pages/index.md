@@ -90,6 +90,7 @@ header:
   </div>
 </section>
 
+<section class="kh-section" aria-labelledby="public-projects"><h2 id="public-projects">Public research by Kedma Hamelberg</h2><p>I created and developed three connected projects. Choose the evidence that matches your question:</p><div class="kh-card-grid kh-card-grid--3"><article class="kh-card"><h3>European Security Monitor</h3><p>Study European security narratives, government communications and audience responses around defence, sovereignty, civil protection and information influence. Explore recorded sources and the limits of the sample.</p><a href="https://monitor.hamelberg-ai.com/research.html">European security research and methods →</a></article><article class="kh-card"><h3>AI Empowerment Observatory</h3><p>Examine how AI developments affect human capability, creativity, autonomy, rights and control. Follow weekly evidence and unique developments.</p><a href="https://observatory.hamelberg-ai.com/methodology/">AI and human empowerment evidence →</a></article><article class="kh-card"><h3>The Brief</h3><p>Read accessible AI news and research summaries with original sources, dates and limitations, including AI governance, work, education and creativity.</p><a href="https://brief.hamelberg-ai.com/">AI news and research explained →</a></article></div></section>
 <section class="kh-section kh-section--soft">
   <div class="kh-section__heading">
     <p class="kh-kicker">Research programmes</p>
