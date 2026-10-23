@@ -19,6 +19,9 @@
       },
       {
         "@id": "https://brief.hamelberg-ai.com/#website"
+      },
+      {
+        "@id": "https://monitor.hamelberg-ai.com/#website"
       }
     ]
   },
@@ -76,5 +79,19 @@
     "creator": {
       "@id": "https://kedmahamelberg.com/#person"
     }
+  },
+  {
+    "@type": "WebSite",
+    "@id": "https://monitor.hamelberg-ai.com/#website",
+    "name": "European Security Monitor",
+    "url": "https://monitor.hamelberg-ai.com/",
+    "creator": {
+      "@id": "https://kedmahamelberg.com/#person"
+    },
+    "about": [
+      "European security narratives",
+      "Government communications",
+      "Audience response"
+    ]
   }
 ]
