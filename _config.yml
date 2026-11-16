@@ -89,6 +89,9 @@ footer:
     - label: "Privacy"
       icon: "fas fa-fw fa-shield-alt"
       url: "/privacy/"
+    - label: "Contact"
+      icon: "fas fa-fw fa-envelope"
+      url: "/contact/"
 
 social:
   name: "Kedma Hamelberg"
