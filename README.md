@@ -1,27 +1,15 @@
-# Minimal Mistakes remote theme starter
+# Kedma Hamelberg, PhD
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Source for [kedmahamelberg.com](https://kedmahamelberg.com/), the professional site of an applied AI researcher, builder and educator.
 
-Contains basic configuration to get you a site with:
+## Research profile
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+The site brings together work at the intersection of decision intelligence, digital behaviour, marketing and human impact.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+**AI as methodology:** projects use computational research, auditable AI systems and human judgment to turn complex digital evidence into accountable decisions.
 
----
+**AI as a research phenomenon:** the portfolio investigates how AI changes work, communication, autonomy, markets and social power.
 
-## Troubleshooting
+**Teaching and impact:** it connects scholarly inquiry with executive learning, public explanation and practical tools for organisations and society.
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+Related public projects include the [AI Empowerment Observatory](https://observatory.hamelberg-ai.com/), [The Brief](https://brief.hamelberg-ai.com/) and the [European Security Monitor](https://monitor.hamelberg-ai.com/).
